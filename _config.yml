@@ -20,7 +20,7 @@ author: Long Vu
 ###############################################
 
 navbar-links:
-  About Me: "About Me and learning patth to DevOps World"
+  About Me: "readme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"

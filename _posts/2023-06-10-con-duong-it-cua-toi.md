@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Con đường IT của tôi
-subtitle: Từ nhà quê lên mây
+subtitle: Từ nhà quê lên đám mây
 cover-img: /assets/img/heComputer.gif
 thumbnail-img: /assets/img/heComputer.gif
 share-img: /assets/img/heComputer.gif

@@ -3,7 +3,7 @@ layout: post
 title: Con đường IT của tôi
 subtitle: Từ nhà quê lên mây
 cover-img: /assets/img/heComputer.gif
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/heComputer.gif
 share-img: /assets/img/heComputer.gif
 tags: [IT, timeline]
 ---

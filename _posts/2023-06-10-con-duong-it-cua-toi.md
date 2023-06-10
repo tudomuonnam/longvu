@@ -8,6 +8,8 @@ share-img: /assets/img/heComputer.gif
 tags: [IT, timeline]
 ---
 
+Thật khó mà tưởng tượng được công nghệ đã thay đổi như thế nào từ khi tôi chạm vài máy tính cá nhân lần đầu tiên năm 2004. 20 năm sau, mọi dữ liệu của tôi giờ đang ở trên mây.
+
 1. Chiếc máy tính đầu tiên
 
 Tôi còn nhớ rõ, chiếc máy tính đầu tiên được sử dung là một chiếc máy tính cũ, được bố mẹ mua để phục vụ việc học tập của chị gái. Đó là một quyết định khá tân tiến thời đó, khi mà, hầu hết các nhà đều chưa có khái niệm mua máy tính cá nhân. Nhất là ở làng quê.

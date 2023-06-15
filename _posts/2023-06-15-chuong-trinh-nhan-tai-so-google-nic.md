@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Note về khóa học google project manager
-subtitle: Từ khó chịu đến cảm thông trách nhiệm của PM
+title: Khóa học Nhân Tài Số của Google
+subtitle: Mở rộng kiến thức, phát triển bản thân
 cover-img: /assets/img/heComputer.gif
 thumbnail-img: /assets/img/heComputer.gif
 share-img: /assets/img/heComputer.gif
-tags: [IT, timeline]
+tags: [cousera, goole, khóa-học]
 ---
+
 ## Lời dẫn
 
 Tháng 8/2022 mình có may mắn đăng kí tham giao khóa học miễn phí của `Google` trên Cousera. Đây là chương trình hợp tác giữa `Trung tâm Đổi mới sáng tạo Quốc gia (NIC) - Bộ Kế hoạch và Đầu tư ` và `Google` giúp học viên mở rộng kiến thức và sự nghiệp dựa trên các khoán học được cấp chứng chỉ `Google Career Certificates`
@@ -63,38 +64,3 @@ Nếu bạn muốn xem vidieo phụ đề tiếng Việt mà Cousera chưa cung 
 Anyway, Cố gắng sử dụng tiếng Anh cho quen nhé. Thời đại bốn chấm rồi
 
 #### Nếu bạn có câu hỏi khác, hỏi mình ở fb cá nhân nhé. 
-
-
-## Khóa học Quản lý dự án
-
-### Mở đầu
-
-Mới đầu mình click vào đăng kí vì tò mò nhiều hơn là muốn tham gia khóa học. Mình có đam mê về công nghệ, thiên về kĩ thuật, thích làm việc với máy tính hơn là giao tiếp với con người. :D. Tuy nhiên, mình cũng hiểu được là, Tech/Dev chỉ là một phần trong guồng máy của phát triển và vận hành sản phẩm. Từ bước đầu tiên, nhận được yêu cầu từ khách hàng, đến các bước cuối cùng, chạy sản phẩm và chuyển giao cho khách hàng cần có rất nhiều đội hỗ trợ. Công việc nhiều và áp lực nhất có lẽ là người Quản lý dự án. Khóa học là một cơ hội tốt để mình thấu hiểu được công việc của các đồng nghiệp và hợp tác với họ để có kết quả tốt nhất (`win-win`)
-
-Thứ 2 là, Tư duy về phát triển sản phẩm đã có những thay đổi lớn, từ truyền thống sang tinh gọn, từ phát triển dự án từng bước một chuyển sang phát triển, chuyển giao liên tục. `Tư duy agile`, phần cốt lõi của DevOps mà mình quan tâm, tình cờ là một chương quan trọng trong khóa học này, khiến mình quyết tâm tìm hiểu
-
-Ok, hơi dài dòng chút để mọi người hiểu rằng, muốn làm tốt công việc của mình cũng cần hiểu cách ngành nghề vận hành và hỗ trợ đồng nghiệp tốt nhất có thể. Luôn học hỏi để phát triển nhé!
-
-
-## Vài nét về khóa học
-
-Khóa học Quản lý dự án của Google, hay còn gọi là Google Project Management Professional Certificate, là một chương trình đào tạo trực tuyến do Google phát triển. Chương trình bao gồm 6 khóa học chính với mục tiêu giúp học viên có thể trở thành một nhà quản lý dự án chuyên nghiệp và thành công.
-
-Các khóa học trong chương trình bao gồm:
-
-1. Foundations of Project Management: Giới thiệu về quản lý dự án và các khái niệm cơ bản trong quản lý dự án.
-
-2. Project Initiation: Hướng dẫn cách khởi động dự án, xác định mục tiêu và phạm vi dự án.
-
-3. Project Planning: Hướng dẫn cách tiến hành lập kế hoạch dự án, quản lý ngân sách, tài nguyên và rủi ro.
-
-4. Project Execution: Hướng dẫn cách triển khai kế hoạch dự án và quản lý các hoạt động trong quá trình thực hiện dự án.
-
-5. Monitoring and Controlling Projects: Hướng dẫn cách giám sát và kiểm soát tiến độ dự án, phát hiện và giải quyết các vấn đề trong quá trình thực hiện dự án.
-
-6. Project Closure: Hướng dẫn cách hoàn thành dự án, đánh giá kết quả và rút ra kinh nghiệm.
-
-Sau khi hoàn thành chương trình này, học viên sẽ có kiến thức và kỹ năng cần thiết để quản lý dự án thành công, xây dựng và triển khai các kế hoạch dự án, quản lý tài nguyên và rủi ro, giám sát tiến độ dự án và đánh giá kết quả. Ngoài ra, học viên cũng sẽ có cơ hội làm việc với các công ty lớn và khởi nghiệp trong lĩnh vực quản lý dự án.
-
-Created by ChatGPT Việt Nam (https://t.me/ChatGPT_Vietnam) 
-

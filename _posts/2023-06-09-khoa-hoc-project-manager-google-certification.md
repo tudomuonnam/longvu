@@ -110,13 +110,75 @@ Qua 2 bước như trên xong xuôi rồi mới đến bước 3 là  `Project E
 
 Qua đủ các thứ loằng ngoằng rắc rối nhưng rất quan trọng để cuối cùng mới bắt tay vào dự án, nhưng chưa phải là hết đau đầu nhé. Việc của PM còn rất, rất nhiều.
 
+Những công việc chính của PM trong giai đoạn thực hiện:
+
+1. Theo dõi và đo lường tiến độ của dự án. Các mục cần theo dõi gồm:
+- Các đầu mục công việc `task`
+- Chi phí dự án `cost`
+- Theo dõi các deadline quan trọng, các vấn đề phụ thuộc, sự thay đổi (của khách hàng, nhân sự, ...), các rủi ro tiềm năng của dự án
+- Các công cụ để theo dõi gồm:
+    - Gantt Chart
+    - Burndown Chart
+    - Road map
+
+2. Quản lý chất lượng và cải thiện chất lượng
+- Đảm bảo quá trình xây dựng sản phẩm đi theo đúng tiêu chuẩn chất lượng. Các tiêu chuẩn này có thể về sản phẩm, về quá trình thực hiện. Việc xây dựng tiêu chuẩn giúp quá trình phát triển đi đúng hướng, tránh mỗi phòng ban, mỗi con người làm một kiểu. Bạn cũng cần truyền đạt, làm rõ để mọi người hiểu và thực thi các tiêu chuẩn này 
+    <p><em>Với phát triển phần mềm có thể là các quy định về đặt tên hàm, cách sử dụng comment, các code ...</em></p>
+- Đảm bảo chất lượng & Kiểm soát chất lượng (QA & QC). QA là quá trình nhằm __ngăn ngừa__ lỗi xảy ra trong khi QC giúp __loại bỏ__ các sản phẩm lỗi ra khỏi nhà máy
+    <p><em>Với phát triển phần mềm quá trình này là toàn bộ giai đoạn đi từ development -> testing -> staging trước khi deploy sản phẩm trên server production</em></p>
+
+3. Tạo điều kiện để khách hàng tham gia vào giai đoạn phát triển sản phẩm và đo lường mức độ hài lòng của khách hàng
+
+Quá trình nhận phản hồi của khách hàng có thể diễn ra trước, trong quá trình xây dựng sản phẩm thông qua công cụ `servey` và quá trình dùng thử sản phẩm `user acception testing - UAT`
+- Khi servey khách hàng, bạn có thể hỏi những tính năng mà khách thích và không thích ở sản phẩm cũ, những tính năng mà họ muốn cải thiện. Những gì họ trông đợi ở sản phẩm mới. 
+- Ở quá trình UAT, bạn mang sản phẩm demo để khách hàng sử dụng xây dựng các kịch bản giải quyết vấn đề `test case` kèm theo mô tả các bức thực hiện `user case` và ghi nhận phản hổi từ khách hàng. Trong quá trình thực hiện, khách có thể phát hiện ra các lỗi kĩ thuật `bug` hoặc đề nghị thay đổi tính năng hay quá trình thực hiện `change request`. Bạn có thể lưu lại và thảo luận cùng team
+
+4. Lãnh đạo và xử lý tình huống
+
+## Kết thúc dự án
+
+Khi bạn chuyển giao sản phẩm cho khách hàng không có nghĩa là dự án đã xong xuôi. 
+1. Dự án chỉ kết thúc khi thỏa mãn các bước sau:
+- Bạn cần đảm bảo các công việc đã được thực hiện. Là PM, bạn phải rà soát kĩ 2,3 lần từ Project Charter và thực tế để đảm bảo công việc đã được thực hiện đầy đủ
+
+- Đảm bảo các quy trình đã thực hiện xong. Ví dụ hợp đồng thuê nhà, xe, máy móc ... vẫn còn hiệu lực (và có thể bị tính tiền)
+
+- Cuối cùng bạn phải có sự công nhận bằng văn bản và chữ kí của tất cả các đối tác rằng dự án đã kết thúc. Bạn nên phải thực hiện bước này để đảm bảo không có thêm chi phí nào phát sinh khi mọi người đều nghĩ là dự án đã kết thúc.
+
+    Nếu khách hàng muốn có thêm các yêu cầu, hãy đề nghị họ kí thêm một dự án khác để bắt đầu lại hơn là tiếp tục dây dưa hợp đồng cũ.
+
+2. `Báo cáo kết thúc dự án`: Công việc của PM khi đóng dự án
+
+    Chúc mừng bạn đã dẫn dắt nhóm từ khi khởi tạo đến khi kết thúc. Đây là bước cuối cùng để đảm bảo bạn đã hoàn thành trách nhiệm được giao. Bạn hãy viết `Báo cáo kết thúc dự án` nhằm thực hiện 3 mục đích chính: 
+    - Đầu tiên, đó là một kế hoạch chi tiết để ghi lại những gì nhóm đã làm, cách họ thực hiện và những gì họ đã hoàn thành.
+    - Thứ hai, cung cấp một đánh giá về chất lượng công việc.
+    - Và thứ ba, đánh giá hiệu suất của dự án liên quan đến ngân sách và tiến độ.
+    Đây là cách bạn để lại kiến thức, cách thức làm việc mà bạn đã trải qua. Bạn nên viết càng chi tiết càng tốt. Việc lưu trữ kiến thức thực tế giúp bạn hoặc những PM khác có thể học hỏi được khi triển khai những dự án tương tự 
+
+    Nội dung của `Báo cáo kết thúc dự án` gồm: 
+
+    - Bản tóm tắt việc thực hiện: Ghi lại vắn tắt mục đích của dự án bằng một vài câu.
+    - Danh sách các thành tựu đạt được cũng như tác động của dự án, hãy coi đây là nơi bạn và nhóm tỏa sáng
+    - Các mốc thời gian quan trọng trong dự án. Dự án mất bao lâu, có đi đúng hướng hay không 
+    - Các thành viên quan trọng trong dự án và cách liên lạc với họ.
+    - Các tài liệu quan trọng của dự án và các đường link đến tài liệu đó
+    - Có dự án nào tiếp sau dự án này không? Dự án này có mở ra cơ hội nào tiếp theo không?
+
+3. Xây dựng tiệc kết thúc dự án `Retrospective team` 
+
+Pheww, dù dự án có nhiều giông bão và khó khăn đến đâu, cuối cùng nó cũng phải kết thúc. Đây là cơ hội để ngồi lại cùng team và cùng tìm hiểu:
+
+- Những vấn đề team đã làm tốt
+- Những rủi ro, vấn đề bất ngờ đã xảy ra
+- Những bài học rút ra và giải pháp để cải thiện hiệu quả trong các dự án sắp tới
+
+Dù kết quả dự án có ra sao, bữa tiệc kết thúc dự án cũng cần được thực hiện trong không khí vui vẻ, cởi mở để các thành viên cảm thấy thoải mái. Sẵn sàng bỏ qua thành công và thất bại trong quá khứ để chuẩn bị cho dự án mới.
 
 
+## Tổng kết
 
-Từ đây, bộ phận quản lý của công ty (Project Sponsor) sẽ xây dựng team để phát triển sản phẩm (Developer), một bộ phận để quản lý tiến độ dự án (Project manager), các phong ban để hỗ trợ team phát triển: như Nhân sự (HR), Hành Chính (Admin), Pháp Lý (Legal) ... trong đó người Project Mananger (từ đây viết tắt là PM) là người sâu sát nhất với team. Ngoài việc theo dõi tiết độ dự án, gắn kết team phát triển với khách hàng, cung cấp nguồn lực yêu cầu (theo kế hoạch hoặc ngoài kế hoạch), giải quyết vấn đề phát sinh ... Có thể nói là "làm dâu trăm họ"
+Waoo, thực sự là một hành trình dài vượt quá suy nghĩ lúc đầu của người viết. Nếu bạn đã đọc đến đây, xin cảm ơn và chúc mừng. Bạn có thể tự thưởng cho mình một phút nghỉ ngơi và thư giãn. 
 
-Sau khi kết thúc giai đoạn khởi tạo
+Quản lý dự án rõ ràng là một công việc khá mệt mỏi và người quản lý dự án thường ở sau ánh hào quang của sân khấu. Cảm ơn các PM.
 
-
-Vài ghi chép:
-- Thành công (hay thất bại) của dự án được quyết định rất sớm, từ khi Chủ đầu tư
+Mình viết lại đây để lưu kiến thức, có thể một ngày nào đó sẽ được dùng đến.

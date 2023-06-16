@@ -2,76 +2,16 @@
 layout: post
 title: Note về khóa học google project manager
 subtitle: Từ khó chịu đến cảm thông trách nhiệm của PM
-cover-img: /assets/img/heComputer.gif
-thumbnail-img: /assets/img/heComputer.gif
-share-img: /assets/img/heComputer.gif
-tags: [IT, timeline]
+cover-img: /assets/img/foundation-project-management.png
+thumbnail-img: /assets/img/foundation-project-management.png
+share-img: /assets/img/foundation-project-management.png
+tags: [IT, quản-lý-dự-án,khóa-học,google,NIC, DevOps ]
 ---
 ## Lời dẫn
 
-Tháng 8/2022 mình có may mắn đăng kí tham giao khóa học miễn phí của `Google` trên Cousera. Đây là chương trình hợp tác giữa `Trung tâm Đổi mới sáng tạo Quốc gia (NIC) - Bộ Kế hoạch và Đầu tư ` và `Google` giúp học viên mở rộng kiến thức và sự nghiệp dựa trên các khoán học được cấp chứng chỉ `Google Career Certificates`
+Mới đầu mình click vào đăng kí khóa học này vì tò mò nhiều hơn là muốn tham gia trọn vẹn. Mình có đam mê về công nghệ, thiên về kĩ thuật, thích làm việc với máy tính hơn là giao tiếp với con người. :D. Tuy nhiên, mình cũng hiểu được là, Tech/Dev chỉ là một phần trong guồng máy của phát triển và vận hành sản phẩm. Từ bước đầu tiên, nhận được yêu cầu từ khách hàng, đến các bước cuối cùng, chạy sản phẩm và chuyển giao cho khách hàng cần có rất nhiều đội hỗ trợ. Công việc nhiều và áp lực nhất có lẽ là người Quản lý dự án. Khóa học là một cơ hội tốt để mình thấu hiểu được công việc của các đồng nghiệp và hợp tác với họ để có kết quả tốt nhất (`win-win`)
 
-<p><em>Sứ mệnh của chúng tôi đối với Việt Nam là cung cấp công bằng cơ hội kỹ thuật số cho tất cả người dân Việt Nam. Chúng tôi cam kết thúc đẩy quá trình chuyển đổi số của quốc gia và hỗ trợ những nỗ lực của chính phủ trong việc xây dựng một đội ngũ nhân tài số mạnh mẽ đồng thời giúp các công ty khởi nghiệp trong nước phát triển. Chương trình Phát triển Nhân tài số và Chương trình Hỗ trợ doanh nghiệp khởi nghiệp hướng đến việc khai phá cơ hội cho nhiều người hơn bằng cách tạo điều kiện tiếp cận cơ hội việc làm kỹ thuật số và hỗ trợ các doanh nhân Việt Nam phát triển kinh doanh</em></p> [Nguồn](https://kinhtevadubao.vn/google-hop-tac-voi-nic-trao-20000-suat-hoc-bong-cong-nghe-thong-tin-23283.html)
-
-
-Việc đăng kí cũng hết sức đơn giản, bạn điền vào form, cung cấp thông tin khóa học và địa chỉ email đăng kí trên Cousera. Khi link đăng kí được kích hoạt. Bạn đăng nhập vào trang Cousera và nhận thấy mình có thể được học các khóa của của goole miễn phí. 
-
-Bình thường bạn phải trả tiền cho từng khóa để học
-
-## Các khóa học trong chương trình của Google
-
-Sau khi đăng kí và tham dự chương trình, bạn có thể học 1 hoặc nhiều khóa trong đó, các khóa này gồm: 
-1. Google IT Automation with Python Professional Certificate
-2. Google Project Management Professional Certificate
-3. Google Data Analytics Professional Certificate
-4. Google UX Design Professional Certificate
-5. Google Digital Marketing & Emcommerce
-6. Google IT Support
-
-Nội dung chi tiết và yêu cầu của từng khóa, bạn có thể dễ dàng tìm kiếm trên trang chủ của Cousera. Ở đây mình chỉ nói về cảm nhận riêng của bản thân.
-
-**Điểm nổi bật nhất của chương trình này, theo mình là chất lượng và nội dung**
-
-- Mỗi khóa học đều rất hay, nhiều kiến thức sâu về ngành nghề. Và bởi vì kiến thức sâu nên cũng yêu cầu học viên phải tập trung và làm nhiều bài tập, hoàn thành bài lab mới có thể hoàn thành từng khóa chứ không chỉ ngồi nghe là xong. Đây là một điểm rất khác biệt so với các khóa học khác mà mình đã tham gia (Như Udemy hoặc khóa học trực tuyến của các trung tâm).
-- Học viên cần có động lực rất lớn để vượt qua nhiều thử thách về ngôn ngữ, về kiến thức ngành, về khả năng tự học ... Theo mình nhớ thì chỉ có khoảng 11% học viên Việt Nam đăng kí là nhận được chứng chỉ hoàn thành khóa học
-
-**Bản thân mình chỉ kịp học và nhận chứng chỉ** toàn phần khóa `Google IT support ` và một phần khóa `Google Project Management` và `Google IT Automation with Python` đã cảm thấy rất hữu ích và thích thú. Nếu có thêm thời gian, chắc chắn mình sẽ hoàn thành các khóa còn lại (Chiến thắng thêm bệnh lười nữa)
-
-**Những học viên hoàn thành tối thiểu một khoá học toàn phần** được truy cập vào website tuyển dụng mà Google hỗ trợ, đăng tuyển công việc liên quan đến các khóa học mà bạn đã tham gia. Phần này cũng là động lực để bạn cố gắng học hỏi, vượt qua mọi rào cản để hoàn thành khóa học. 
-
-Nói thêm là mỗi khóa có 4-5 khóa nhỏ, mỗi khóa nhỏ lại chia thành 4-5 tuần để học. Bạn phải hoàn thành hết 4-5 khóa mới gọi là hoàn thành khóa học. Note nữa là mỗi khóa nhỏ cũng có một chứng chỉ cuối khóa công nhận bạn đã hoàn thành
-
-## Một vài câu hỏi mà mình thường nhận được
-#### Em muốn đăng kí học miễn phí có được không?
-NIC và goole mới mở đăng kí miễn phí vào tháng 7/2022 vừa rồi. Nhưng có vẻ họ đã kiếm đủ số học viên nên đã đóng lại. Bạn cần theo dõi trên fanpage của NIC để cập nhật khi nào họ mở đăng kí mới. Theo dõi tại:
-
-- Website: [https://nic.gov.vn/](https://nic.gov.vn/)
-- Cộng đồng: [Cộng đồng Phát triển Nhân tài số cùng NIC x Google](https://www.facebook.com/groups/congdongnhantaiso) 
-
-Có vẻ như mỗi năm họ chỉ mở 1 lần vào tháng 7. Bạn phải theo dõi thường xuyên nhé
-
-#### Học một mình rất nhanh chán, nhiều bài tập khó không biết hỏi ai. Làm thế nào để vượt qua ạ? 
-
-NIC có một cộng đồng học tập sinh hoạt trên trang cộng đồng facebook (link ở trên). Ngoài ra họ có host một diễn đàn trên Discord với các bạn đã hoàn thành có thể hướng dẫn thêm để bạn hoàn thành khóa học. [Link Discord](https://discord.gg/Rj74U9m6bt). Học kiến thức luôn khó. Cần nhẫn nại và coi đó như một khoản đầu tư 
-
-#### Nhiều bài không có phụ đề, tiếng anh em không theo kịp, phải làm thế nào ạ?
-
-Mình nghĩ nên cố gắng học tiếng Anh, vì bài học và thi đều dùng ngôn ngữ Anh, bạn nghe bài giảng tiếng Việt xong quay sang làm bài kiểm tra tiếng Anh lại hụt hẫng. 
-
-Nếu bạn muốn xem vidieo phụ đề tiếng Việt mà Cousera chưa cung cấp (Đúng ra là đội ngũ tình nguyện viên chưa dịch xong), một số bạn có giới thiệu addon cho tự động dịch phụ đề cho video là [GlotDojo](https://chrome.google.com/webstore/detail/glotdojo-learn-languages/dbnjpielondlkmdjbembloegkaabfakc). Bạn cần sử dụng trình duyệt Chrome hoặc Microsoft Edge để cài đặt. Mình đã cài nhưng chưa thử
-
-Anyway, Cố gắng sử dụng tiếng Anh cho quen nhé. Thời đại bốn chấm rồi
-
-#### Nếu bạn có câu hỏi khác, hỏi mình ở fb cá nhân nhé. 
-
-
-## Khóa học Quản lý dự án
-
-### Mở đầu
-
-Mới đầu mình click vào đăng kí vì tò mò nhiều hơn là muốn tham gia khóa học. Mình có đam mê về công nghệ, thiên về kĩ thuật, thích làm việc với máy tính hơn là giao tiếp với con người. :D. Tuy nhiên, mình cũng hiểu được là, Tech/Dev chỉ là một phần trong guồng máy của phát triển và vận hành sản phẩm. Từ bước đầu tiên, nhận được yêu cầu từ khách hàng, đến các bước cuối cùng, chạy sản phẩm và chuyển giao cho khách hàng cần có rất nhiều đội hỗ trợ. Công việc nhiều và áp lực nhất có lẽ là người Quản lý dự án. Khóa học là một cơ hội tốt để mình thấu hiểu được công việc của các đồng nghiệp và hợp tác với họ để có kết quả tốt nhất (`win-win`)
-
-Thứ 2 là, Tư duy về phát triển sản phẩm đã có những thay đổi lớn, từ truyền thống sang tinh gọn, từ phát triển dự án từng bước một chuyển sang phát triển, chuyển giao liên tục. `Tư duy agile`, phần cốt lõi của DevOps mà mình quan tâm, tình cờ là một chương quan trọng trong khóa học này, khiến mình quyết tâm tìm hiểu
+Thứ 2 là, Tư duy về phát triển sản phẩm đã có những thay đổi lớn, từ truyền thống sang tinh gọn, từ phát triển dự án từng bước một chuyển sang phát triển, chuyển giao liên tục. `Tư duy agile`, phần cốt lõi của `DevOps` mà mình quan tâm, tình cờ là một chương quan trọng trong khóa học này, khiến mình quyết tâm tìm hiểu
 
 Ok, hơi dài dòng chút để mọi người hiểu rằng, muốn làm tốt công việc của mình cũng cần hiểu cách ngành nghề vận hành và hỗ trợ đồng nghiệp tốt nhất có thể. Luôn học hỏi để phát triển nhé!
 
@@ -90,11 +30,93 @@ Các khóa học trong chương trình bao gồm:
 
 4. Project Execution: Hướng dẫn cách triển khai kế hoạch dự án và quản lý các hoạt động trong quá trình thực hiện dự án.
 
-5. Monitoring and Controlling Projects: Hướng dẫn cách giám sát và kiểm soát tiến độ dự án, phát hiện và giải quyết các vấn đề trong quá trình thực hiện dự án.
+5. Agile.
 
-6. Project Closure: Hướng dẫn cách hoàn thành dự án, đánh giá kết quả và rút ra kinh nghiệm.
+6. Thực hiện chi tiết một dự án.
 
 Sau khi hoàn thành chương trình này, học viên sẽ có kiến thức và kỹ năng cần thiết để quản lý dự án thành công, xây dựng và triển khai các kế hoạch dự án, quản lý tài nguyên và rủi ro, giám sát tiến độ dự án và đánh giá kết quả. Ngoài ra, học viên cũng sẽ có cơ hội làm việc với các công ty lớn và khởi nghiệp trong lĩnh vực quản lý dự án.
 
-Created by ChatGPT Việt Nam (https://t.me/ChatGPT_Vietnam) 
+Phần nội dung khóa học được tổng hợp từ [ChatGTP_VietNam](https://t.me/ChatGPT_Vietnam). Ok những gì bot viết được thì mình không cần typing làm gì. Ở đây mình chú trọng vào cảm nhận cá nhân từ khóa học
 
+## Một vài khái niệm chuyên ngành
+
+Trong quản lý dự án có một số khái niệm mà bạn cần hiểu trước khi đi vào nội dung. Mình sẽ liệt kê ra trước ở đây:
+- Project Sponsor
+Nhà tài trợ dự án là một người hoặc tổ chức trong một tổ chức chịu trách nhiệm khởi xướng, phê duyệt và cung cấp các nguồn lực cho một dự án. Nhà tài trợ dự án thường là một nhà điều hành cấp cao, chẳng hạn như CEO, COO hoặc CFO, người có thẩm quyền và ảnh hưởng cần thiết để đảm bảo rằng dự án phù hợp với mục tiêu và mục tiêu của tổ chức.
+
+Nhà tài trợ dự án chịu trách nhiệm cung cấp cho người quản lý dự án sự hỗ trợ và nguồn lực cần thiết để hoàn thành dự án thành công (Chi phí, con người, thời gian ...). Họ cũng là người phê duyệt các quyết định quan trọng liên quan đến dự án.
+
+- Customer
+- User
+- Stakeholders
+- Project mananger
+- Developer
+- Testing
+- Content & Graphic Designer
+- Key stakeholders: The people with the highest amount of influence on and interest in a project; also called "key players"
+
+
+
+## Khóa 1: Giới thiệu về quản lý dự án và các khái niệm cơ bản trong quản lý dự án.
+
+Khóa này không có gì đặc biệt, là giới thiệu tổng quan về quản lý dự án the phương phá cổ điển: vòng đời của dự án, cách dự án được khởi động, lên kế hoạch, phê duyệt, lập team, ghi chép, lưu trữ sổ sách, khép lại dự án ...
+
+## Project Initiation: Hướng dẫn cách khởi động dự án, xác định mục tiêu và phạm vi dự án. 
+
+Có thể nói nôm na như thế này:
+
+Khách hàng có một yêu cầu làm dự án gì đó (như website) với các tính năng cụ thể (như đặt hàng online, hỗ trợ khách hàng ...). Họ tìm đến công ty phát triển sản phẩm, hoặc sử dụng nhân lực sẵn có trong công ty để phát triển hoặc kết hợp cả hai cách trên. Ở đây lấy ví dụ là cách thứ nhất, để đơn giản và tách bạch các vai trò
+1. Khởi tạo dự án
+
+Công ty sẽ cùng khách hàng vạch ra mục tiêu của dự án (Goals) thể hiện chi tiết bằng một danh sách các việc cần thực hiện (Deliverable) một cách chi tiết (sử dụng SMART), xác định phạm vi những gì cần thực hiện, những gì không (scope, no scope).
+
+Kết thúc quá trình khởi tạo dự án, PM sẽ có trong tay:
+- Project Charter, bản tóm tắt nội dung dự án, gồm lợi ích của dự án, goals, deliverables, scope, no scope. **Đây là văn bản quan trọng nhất của dự án** để mỗi khi có xung đột nào đó giữa các bên, sẽ được mang ra kiểm tra trước nhất
+- Chi tiết các bên tham gia trực tiếp vào dự án (Stakeholder): Khách hàng, nhân viên, PM ...
+- Chi tiết team phát triển: Gồm ai, phụ trách việc gì, ai là người chịu trách nhiệm chính của việc.
+- Quan trọng nhất: Chữ kí của khách hàng xác nhận các đầu việc như trên.
+
+**Sau khi có chữ kí của các bên rồi, dự án mới bước sang giai đoạn 2**
+
+## Khóa 2: Hướng dẫn cách tiến hành lập kế hoạch dự án, quản lý ngân sách, tài nguyên và rủi ro
+
+Sau khi các Sếp kí tá đầy đủ rồi, Team bắt đầu khởi động công việc. 
+
+- Đầu tiên, PM và các team họp mặt giới thiệu, chia sẻ và thống nhất về phong cách, cách thức thực hiện công việc (kichoff meeting)
+- Team họp và xây dựng `Danh sách đề mục công việc. Chia nhỏ công việc lớn thành các mục nhỏ và giao nhiệm vụ từng công việc cho các thành viên. Theo đó là thời gian làm việc và hoàn thành cụ thể`. Qúa trình này gọi là `Work breakdown structure (WBS)`
+- Xây dựng tiến độ dự án: Sau khi chia nhỏ các đầu mục công việc, tiếp theo là xét các khoảng thời gian để hoàn thành các đầu việc. Ngoài ra, việc quan trọng của quá trình này là xác định thời gian hoàn thành các dấu mốc quan trọng (`Critial Path`) để dự án đúng tiến độ. 
+
+<p><em>Một ví dụ về `Critial Path`: Một dự án xây nhà cần phải đạt các mốc quan trọng như: Đổ xong móng, đựng khung nhà. Vì các đầu mục công việc khác như: Đi dây điện, nước, làm cửa, ... chỉ có thể thực hiện khi bước này xong (`dependencies`)</em></p>
+
+- Xây dựng ngân sách. Từ nguồn lực đã xác định là con người, thời gian việc tính toán chi tiết ngân sách là công việc tiếp theo
+
+- Xây dựng công việc, trách nhiệm của từng thành viên
+
+- Xây dựng luồng kế hoạch giao tiếp giữa các thành viên, giữa các team và bên liên quan. Sử dụng phần mềm nào để theo dõi tiến độ? Khi nào cần họp? Báo cáo ngày, tuần, tháng gồm những gì? Gửi cho ai. Khi có việc phát sinh liên lạc với đầu mối nào ...
+
+Kết thúc bước lên kế hoạch cho dự án, PM đã có:
+- `Work breakdown structure (WBS)` đầu mục công việc đã được chia nhỏ, với thời gian thực hiện, người thực hiện chi tiết. Các dấu mốc quan trọng cần đạt được để đảm bảo dự án hoàn thành đúng tiến độ
+- Bản ngân sách dự án
+- Danh sách các nguồn lực để đảm bảo dự án đúng tiến độ
+- Kế hoạch giao tiếp `Communication plan`
+
+Vậy đấy, ngay cả khi team chưa code một dòng nào, dự án đã được triển khai, lựa chọn người và chuẩn bị đầy đủ cả. Phần lớn công việc lúc này là của PM và các leader, Senior, những người đã làm việc nhiều năm, tham gia nhiều dự án và có thể phân tích yêu cầu của khách hàng thành một bản mô tả cụ thể với các nguồn lực về thời gian, con người được xác định cụ thể.
+
+Đây là điều mà lính mới vào nghề không nắm được rõ, chỉ biết khi danh sách đầu việc được đưa xuống. Việc xây dựng kế hoạch từng bước và cụ thể như vậy cũng khá là xa là với những freeland quen làm việc một mình hơn là làm trong công ty lớn.
+
+Qua 2 bước như trên xong xuôi rồi mới đến bước 3 là  `Project Execution: Hướng dẫn cách triển khai kế hoạch dự án và quản lý các hoạt động trong quá trình thực hiện dự án.`
+
+## Khóa 3, Thực hiện dự án: Hướng dẫn cách triển khai kế hoạch dự án và quản lý các hoạt động trong quá trình thực hiện dự án.
+
+Qua đủ các thứ loằng ngoằng rắc rối nhưng rất quan trọng để cuối cùng mới bắt tay vào dự án, nhưng chưa phải là hết đau đầu nhé. Việc của PM còn rất, rất nhiều.
+
+
+
+
+Từ đây, bộ phận quản lý của công ty (Project Sponsor) sẽ xây dựng team để phát triển sản phẩm (Developer), một bộ phận để quản lý tiến độ dự án (Project manager), các phong ban để hỗ trợ team phát triển: như Nhân sự (HR), Hành Chính (Admin), Pháp Lý (Legal) ... trong đó người Project Mananger (từ đây viết tắt là PM) là người sâu sát nhất với team. Ngoài việc theo dõi tiết độ dự án, gắn kết team phát triển với khách hàng, cung cấp nguồn lực yêu cầu (theo kế hoạch hoặc ngoài kế hoạch), giải quyết vấn đề phát sinh ... Có thể nói là "làm dâu trăm họ"
+
+Sau khi kết thúc giai đoạn khởi tạo
+
+
+Vài ghi chép:
+- Thành công (hay thất bại) của dự án được quyết định rất sớm, từ khi Chủ đầu tư

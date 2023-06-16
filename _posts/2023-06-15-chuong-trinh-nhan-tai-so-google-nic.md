@@ -2,9 +2,9 @@
 layout: post
 title: Khóa học Nhân Tài Số của Google
 subtitle: Mở rộng kiến thức, phát triển bản thân
-cover-img: /assets/img/heComputer.gif
-thumbnail-img: /assets/img/heComputer.gif
-share-img: /assets/img/heComputer.gif
+cover-img: /assets/img/cat-with-laptop.jpg
+thumbnail-img: /assets/img/cat-with-laptop.jpg
+share-img: /assets/img/cat-with-laptop.jpg
 tags: [cousera, goole, khóa-học]
 ---
 

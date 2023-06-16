@@ -34,6 +34,11 @@ Nội dung chi tiết và yêu cầu của từng khóa, bạn có thể dễ d�
 **Điểm nổi bật nhất của chương trình này, theo mình là chất lượng và nội dung**
 
 - Mỗi khóa học đều rất hay, nhiều kiến thức sâu về ngành nghề. Và bởi vì kiến thức sâu nên cũng yêu cầu học viên phải tập trung và làm nhiều bài tập, hoàn thành bài lab mới có thể hoàn thành từng khóa chứ không chỉ ngồi nghe là xong. Đây là một điểm rất khác biệt so với các khóa học khác mà mình đã tham gia (Như Udemy hoặc khóa học trực tuyến của các trung tâm).
+
+- Nội dung của mỗi học phần cũng rất đa dạng gồm: Bài giảng Video ngắn (gồm câu hỏi trắc nghiệm trong mỗi video), bài đọc, bài kiểm tra trắc nghiệm kiến thức, chia sẻ cảm nhận với cộng đồng đan xen lẫn nhau, yêu cầu học viên phải liên tục tương tác. Tránh cảm giác nhàm chán. Mình học một khóa khác trên Udemy, Video nối tiếp video khiến mình rất mất tập trung và thường chẳng nghe & nhớ được gì sau 5'. 
+
+- Các bài kiểm tra tự luận, và học viên tự chấm điểm cho nhau là một áp lực khác của khóa học. Nếu bạn không học và làm bài sơ sài, bạn rất dễ trượt và phải làm/ học lại.
+
 - Học viên cần có động lực rất lớn để vượt qua nhiều thử thách về ngôn ngữ, về kiến thức ngành, về khả năng tự học ... Theo mình nhớ thì chỉ có khoảng 11% học viên Việt Nam đăng kí là nhận được chứng chỉ hoàn thành khóa học
 
 **Bản thân mình chỉ kịp học và nhận chứng chỉ** toàn phần khóa `Google IT support ` và một phần khóa `Google Project Management` và `Google IT Automation with Python` đã cảm thấy rất hữu ích và thích thú. Nếu có thêm thời gian, chắc chắn mình sẽ hoàn thành các khóa còn lại (Chiến thắng thêm bệnh lười nữa)

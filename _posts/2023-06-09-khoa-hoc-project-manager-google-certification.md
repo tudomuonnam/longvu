@@ -104,6 +104,25 @@ Vậy đấy, ngay cả khi team chưa code một dòng nào, dự án đã đư
 
 Đây là điều mà lính mới vào nghề không nắm được rõ, chỉ biết khi danh sách đầu việc được đưa xuống. Việc xây dựng kế hoạch từng bước và cụ thể như vậy cũng khá là xa là với những freeland quen làm việc một mình hơn là làm trong công ty lớn.
 
+### Hướng dẫn chia nhỏ công việc thành các task
+
+Việc chia công việc thành các task nhỏ hơn là việc, có lẽ là khó nhất trong bản kế hoạch dự án. Làm thế nào để chia đầu việc thành các phần nhỏ hơn trong khi bạn chưa có kinh nghiệm và chuyên môn sâu trong ngành? Đến học phần 6 `Tự xây dựng và triển khai một dự án hoàn chỉnh` có một số hướng dẫn cụ thể hơn về việc chia task. Sau dây là một vài hướng dẫn hữu ích:
+
+**Nguồn tài liệu để chia task**, Bạn sẽ phải dựa vào:
+- `Project Charter`, đọc lại và xem lại goals, deliveriables, scope, no scope, timeline để có các đầu việc lớn và thời gian 
+- Các buổi trao đổi, emails, chat với các bên liên quan: Seniors, Customer, Phòng ban ...
+- Từ các dự án cũ tương tự
+- Từ tìm kiếm trực tuyến, với các từ khóa `tên dự án` +  project plan
+
+**Cách thực hiện**
+- Xác định task trong 1 hoặc 2 câu, nếu việc mô tả này dài hơn, bạn hãy chia nhỏ task
+- Nhìn vào các yếu tố phụ thuộc `dependencies`, các yếu tố bắt buộc phải có trước khi thực hiện các task khác. 
+- Tranh thủ sự giúp đỡ của các thành viên khác, các leader, thành viên có kinh nghiệm có thể hỗ trợ bạn chia task
+- Chia task theo các mốc thời gian. Dự án có các mốc thời gian cần đạt `milestone`, nếu thời gian thực hiện task vượt qua `milestone` này, nó cần được chia nhỏ
+- Chia task dựa trên định nghĩa về  `sự hoàn thành` của dự án. Sự hoàn thành có nghĩa là gì? Tạo & chia các task theo định nghĩa đó 
+
+
+
 Qua 2 bước như trên xong xuôi rồi mới đến bước 3 là  `Project Execution: Hướng dẫn cách triển khai kế hoạch dự án và quản lý các hoạt động trong quá trình thực hiện dự án.`
 
 ## Khóa 3, Thực hiện dự án: Hướng dẫn cách triển khai kế hoạch dự án và quản lý các hoạt động trong quá trình thực hiện dự án.

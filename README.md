@@ -1,8 +1,8 @@
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
-
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
+
 
 > By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
 
@@ -12,37 +12,28 @@
 
 ## Table of contents
 
-- [Features](#features)
-- [Sponsors 🏆](#sponsors)
-- [**Build your website in 3 steps**](#build-your-website-in-3-steps)
+- [Beautiful Jekyll](#beautiful-jekyll)
+  - [Table of contents](#table-of-contents)
+- [Build your website in 3 steps](#build-your-website-in-3-steps)
+  - [The easy way (recommended!)](#the-easy-way-recommended)
+    - [1. Fork this project](#1-fork-this-project)
+    - [2. Rename the project to `<yourusername>.github.io`](#2-rename-the-project-to-yourusernamegithubio)
+    - [3. Customize your website settings](#3-customize-your-website-settings)
+    - [4. Congratulations! You have a website!](#4-congratulations-you-have-a-website)
+  - [The hard way (using ruby gems)](#the-hard-way-using-ruby-gems)
 - [Plans](#plans)
 - [Add your own content](#add-your-own-content)
 - [Customizing parameters for each page](#customizing-parameters-for-each-page)
 - [Supported parameters](#supported-parameters)
+  - [Main parameters](#main-parameters)
+  - [Parameters for SEO and social media sharing](#parameters-for-seo-and-social-media-sharing)
+  - [Less commonly used parameters](#less-commonly-used-parameters)
+  - [Advanced parameters](#advanced-parameters)
+  - [Page types](#page-types)
 - [Featured users (success stories!)](#featured-users-success-stories)
 - [FAQ and support](#faq-and-support)
-- [Credits and contributions](#credits)
-
-# Features
-
-__Check out [*What's New?*](https://beautifuljekyll.com/updates/) to see the latest features!__
-
-- **SIMPLE**: The primary goal of Beautiful Jekyll is to allow literally *anyone* to create a website in a few minutes.
-- **Modern**: Uses the latest best practices and technologies to achieve nearly perfect scores on Google Chrome's Audit.
-- **Mobile-first**: Designed to look great on both large-screen and small-screen (mobile) devices.
-- **Highly customizable**: Many personalization settings such as changing the background colour/image, adding a logo.
-- **Flexible usage**: Use Beautiful Jekyll directly on GitHub or via a Ruby gem - choose the best [development method](#build-your-website-in-3-steps) for you.
-- **Battle-tested**: By using Beautiful Jekyll, you'll be joining 50,000+ users enjoying this theme since 2015.
-- **SEO and social media support**: Customize how your site looks on Google and when shared on social media.
-- **Comments support**: Add comments to any page using either [Disqus](https://disqus.com/), [Facebook comments](https://developers.facebook.com/docs/plugins/comments), [Utterances](https://utteranc.es/), [Staticman](https://staticman.net), [giscus](https://giscus.app), or [CommentBox](https://commentbox.io/).
-- **Tags**: Any blog post can be tagged with keywords, and an index page is automatically generated.
-- **Analytics**: Easily integrate Google Analytics, or other analytics platforms, to track visits to your website.
-- **Search**: Let users easily find any page using a Search button in the navigation bar.
-- **Photos support**: Any page can have a full-width cover photo and thumbnail.
-- **RSS**: An RSS feed is automatically created, so you can even host a podcast easily with Beautiful Jekyll.
-
-<h2 id="sponsors">Sponsors 🏆</h2>
-
+- [Contributions](#contributions)
+- [Credits](#credits)
 Developing and maintaining Beautiful Jekyll takes a lot of time and effort - thank you to anyone who helps fund this effort!
 
 - [LoadView-Testing](https://www.loadview-testing.com/products/jmeter-load-testing/)

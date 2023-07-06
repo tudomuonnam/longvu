@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: LongVu Developer
+title: LongVu's Blog
 
 # Your name to show in the footer
 author: Long Vu
@@ -87,7 +87,7 @@ rss-description: Note những kiến thức trên con đường tầm sư học 
 # Select which social network share links to show in posts
 share-links-active:
   #  twitter: true
-  facebook: true
+  #  facebook: true
 #  linkedin: true
 #  vk: false
 
@@ -96,7 +96,7 @@ share-links-active:
 url-pretty: "https://longvd.id.vn"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 120
+excerpt_length: 240
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true

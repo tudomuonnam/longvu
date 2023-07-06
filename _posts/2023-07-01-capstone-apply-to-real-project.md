@@ -2,15 +2,12 @@
 layout: post
 title: Project Management - Apply to real projects, take note
 subtitle: Ghi chép nhanh khi học/ hoàn thành khóa học cuối cùng của khóa Project management
-cover-img: /assets/img/project-management-certificate.png
+cover-img: 
 thumbnail-img: /assets/img/project-management-certificate.png
 share-img: /assets/img/project-management-certificate.png
 tags: [IT, project-management, google-certificate]
 ---
 
-
-Capstone
-================================================
 
 ## Week 3
 

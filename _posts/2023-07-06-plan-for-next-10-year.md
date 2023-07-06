@@ -1,8 +1,17 @@
-
-
+---
+layout: post
+title: "Kế hoạch 10 năm : Một vài kết quả - Một vài dự định"
+subtitle: Kế hoạch - kế hoạch - Kế Hoạch
+cover-img:  
+thumbnail-img: assets/img/BusineseCycle_Chart.jpg
+share-img: assets/img/BusineseCycle_Chart.jpg
+tags: [IT,plan,time-line,look-back]
+---
 
 Kế hoạch 10 năm: Một vài kết quả - Một vài dự định
 ==================
+
+<img src="/assets/img/BusineseCycle_Chart.jpg" alt="Business cycle" style="border: 2px solid  gray;">
 
 > Khủng hoảng kinh tế là điều tồi tệ không ai muốn. Nhưng nó vẫn xảy ra đều đặn và mọi người vẫn ngạc nhiên khi mọi thứ ập đến. Thật kì lạ.
 > 
@@ -43,7 +52,7 @@ Tuy nhiên, bây giờ (đúng ra là sớm hơn một chút nữa) là lúc suy
 - Vẫn phải duy trì thu nhập cho gia đình. 10-20 tr/tháng
 ## Chuẩn bị
 Trong khi chờ "wind of change", mọi thứ vẫn phải hoạt động
-- Duy trì bussiness ở mức **không lỗ ** như hiện tại, tích cực nâng cao kiến thức, kĩ năng và tìm kiếm cơ hội mới
+- Duy trì bussiness ở mức ___không tệ___ như hiện tại, tích cực nâng cao kiến thức, kĩ năng và tìm kiếm cơ hội mới  
 - Gia tăng tài chính để chuẩn bị cho giai đoạn mới
 - Timing: Hết năm nay. Cố gắng hết năm 2023.
 

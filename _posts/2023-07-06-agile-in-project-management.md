@@ -9,7 +9,9 @@ tags: [project-management, google-certificate, agile, scrum, scrum-master]
 comments: true
 ---
 
-> Quản lý linh hoạt (Agile) là phần mình tò mò muốn học nhất. Vì đây là khái niệm mới đối với bản thân mình. Khóa học cho mình thấy sự thay đổi góc nhìn lớn trong vận hành và phát triển team. Team phát triển từ bị động sang chủ động. Từ việc chỉ bắt đầu hoạt động từ giai đoạn 3 trong quản lý dự án, nay họ tự quản lý, phân chia và học hỏi, tự lên kế hoạch và nhận yêu cầu, hỗ trợ từ Stakeholder như Product Owner và Scrum Master.
+> Quản lý linh hoạt (`Agile`) là phần mình tò mò muốn học nhất. Vì đây là khái niệm mới đối với bản thân mình. `Agile` có liên quan trực tiếp đến vị trí công việc mà mình quan tâm là `DevOps`.  
+> 
+> Khóa học cho mình thấy sự thay đổi góc nhìn lớn trong vận hành và phát triển team. Team phát triển từ bị động sang chủ động. Từ việc chỉ bắt đầu hoạt động từ giai đoạn 3 trong quản lý dự án, nay họ tự quản lý, phân chia và học hỏi, tự lên kế hoạch và nhận yêu cầu, hỗ trợ từ Stakeholder như Product Owner và Scrum Master.
 >
 > Quản lý linh hoạt là nhanh chóng đưa ra sản phẩm với những yêu cầu chính, để khách hàng kiểm thử. Khi khách hàng thấy sản phẩm, dịnh vụ chính yếu đó giải quyết được vấn đề  của họ rồi, mới phát triển thêm các tính năng phụ khác. Đây là khái niệm MVP (`Minimum Viable Product`) mà các startup hay nhắc tới. 
 >
@@ -22,7 +24,7 @@ comments: true
 > 
 <figure>
 <img src="/assets/img/MVP-2048x1365.jpg" alt="minimum-viable-product" style="border: 2px solid  gray;">
-<figcaption>Suy nghĩ đúng về Sản phẩm với tính năng tối thiểu <a href="https://inflectiv.co/2022/03/31/mvp-minimum-viable-product/">Nguồn ảnh</a></figcaption>
+<figcaption>Suy nghĩ đúng về Sản phẩm với tính năng tối thiểu (MVP) <a href="https://inflectiv.co/2022/03/31/mvp-minimum-viable-product/">Nguồn ảnh</a></figcaption>
 </figure>
 
 ## Quản lý dự án cổ điển (Từ cổ điển - 1990s)
@@ -81,12 +83,51 @@ Scum áp dụng tinh thần của quản lý linh hoạt, áp dụng (chủ yế
 
 ### Các hoạt động của team gồm:
 
-- Các giai đoạn phát triển (Sprints). Team tự chia thời gian phát triển phần mềm thành các giai đoạn thời gian cố định (1 tháng hoặc ít hơn). Mỗi giai đoạn (`Sprint`) nhằm thực hiện một nhiệm vụ cụ thể (`Product goals`)
-- Kế hoạch ngắn hạn (`Sprint planning`).  
+- Các giai đoạn phát triển (Sprints). 
+- `Sprint`: Mỗi giai đoạn phát triển được chia thành các khoảng thời gian gọi là(`Sprint`) nhằm thực hiện một nhiệm vụ cụ thể (`Product goals`). Sprints thường kéo dài 1 tháng hoặc ít hơn
+  
+- `Sprint planning`: Lên kế hoạch giải quyết các `Product backlogs items` trong Sprint tiếp theo. Hoàn thành chúng như thế nào? Tại sao lại lựa chọn những items đó để thực hiện (trước). Các cuộc họp Sprint Planning diễn ra trước mỗi Sprint.
+  
+- `Daily scrum`: Xem xét những việc đã làm và sẽ làm trong ngày để hoàn thành mục tiêu. Thường là meeting 15 phút hàng ngày
 
+- `Sprint Review`: Họp cuối mỗi Sprint, kiểm tra lại việc hoàn thành mục tiêu. Nhận phản hồi từ Product Owner, Stakeholder về công việc đã làm trong Sprint
+
+- `Retrospective`: Buổi tổng kết trong team về các vấn đề cần rút ra, học được từ Sprint vừa qua. 
+
+## Công cụ được sử dụng trong Scum
+Với giá trị cốt lõi là tính minh bạch, công cụ trong Scum hướng tới sự trực quan, đơn giản để những người có liên quan đều có thể hiểu và nắm được tiến độ công việc.
+- `Kanban`: Bảng chia công việc thành các mục: Lên kế hoạch, đang thực hiện, đã thực hiện xong... Nhằm theo dõi tiến độ hoàn thành. Công việc được gắn tới từng thành viên để tiện theo dõi. Tránh nhân viên bị gắn quá nhiều công việc (quá tải)
+- `Extreme Programming`(XP): Nhằm mục tiêu cải thiện chất lượng sản phẩm và tăng năng lực phản ứng với sự thay đổi của khách hàng. Các hoạt động của XP gồm: Thiết kế, Coding, Testing và Listening. 
+Cách làm mới với XP: 
+  - `Pair Programming`: Hai người làm cùng 1 task, cùng thời gian. 
+  - `Continous Intergration/ Continous Delivery`
+  - Tránh thiết kế toàn bộ hệ thống trước. Thiết kế vừa đủ để hoàn thành mục tiêu trước rồi cải thiện sau đó
+  - Luôn viết test, không phải tài liệu. Test nhằm 2 mục đích: Nói với team bạn built gì và so sánh cái bạn buid với cái dự định built 
+  - Ứng dụng `Lean manufacturing principles` 
+
+## DevOps
+
+Là sự kết hợp của Phát triển sản phẩm (Developlent) và Hoạt động (Operation). Hai hoạt động này, trước đây tách rời nhau hoàn toàn. Sản phẩm trong giai đoạn phát triển sẽ chưa được triển khai, mãi đến khi được đóng gói hoàn chỉnh rồi mới được chuyển giao cho khách hàng để hoạt động.
+
+Áp dụng tinh thần của `Agile` cụ thể hóa qua `Scum` về việc rút ngắn quá trình chuyển giao sản phẩm, đưa khách hàng vào quá trình phát triển. Liên tục đưa ra sản phẩm để nhận phản hồi. DevOps được sinh ra để hiện thực hóa quá trình này.
+
+DevOps đẩy nhanh quá trình phát triển phần mềm nhờ thực thi hai công việc chính
+
+1. Continous Intergration
+2. Continous Deployment
+3. Infrastructure as Code
+
+Mình sẽ có những bài viết thiên về kĩ thuật của DevOps trong thời gian tới 
+
+## Tạm kết
+
+Quản lý dự án linh hoạt được nói nhiều nhưng có lẽ vẫn chưa quá phổ biến trên thực tế ở Việt Nam. Mình có hỏi công ty cũ về vị trí DevOps nhưng trong công ty không có vị trí này và Quản trị dự án vẫn làm như cách đây 14 năm mình ở đó. Quản lý linh hoạt có lẽ được sử dụng nhiều hơn bởi các startup và các công ty làm việc hoặc outsource từ nước ngoài. 
+
+Tuy nhiên, theo quan điểm của mình, đây là xu hướng không thể tránh được. Và vị trí DevOps khá mới với rất nhiều yêu cầu về kiến thức (cả phần Dev và Ops) có thể sẽ `hot` trong thời gian tới. Có điều các công ty hiện nay vừa yêu cầu kiến thức cao, vừa yêu cầu kinh nghiệm nhiều. Khá khó để đạt được cả 2 trong giai đoạn này.
 
 
 ## Nguồn tham khảo:
-1. https://www.coursera.org/learn/agile-project-management
-2. https://management.org/history-of-project-management
-3. https://agilemanifesto.org/
+1. [https://www.coursera.org/learn/agile-project-management](https://www.coursera.org/learn/agile-project-management)
+2. [https://management.org/history-of-project-management](https://management.org/history-of-project-management)
+3. [https://agilemanifesto.org/](https://agilemanifesto.org/)
+4. [https://hocvienagile.com/devops-la-gi-ky-nang-can-thiet-devops-engineer/](https://hocvienagile.com/devops-la-gi-ky-nang-can-thiet-devops-engineer/)

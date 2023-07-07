@@ -98,6 +98,7 @@ Scum áp dụng tinh thần của quản lý linh hoạt, áp dụng (chủ yế
 Với giá trị cốt lõi là tính minh bạch, công cụ trong Scum hướng tới sự trực quan, đơn giản để những người có liên quan đều có thể hiểu và nắm được tiến độ công việc.
 - `Kanban`: Bảng chia công việc thành các mục: Lên kế hoạch, đang thực hiện, đã thực hiện xong... Nhằm theo dõi tiến độ hoàn thành. Công việc được gắn tới từng thành viên để tiện theo dõi. Tránh nhân viên bị gắn quá nhiều công việc (quá tải)
 - `Extreme Programming`(XP): Nhằm mục tiêu cải thiện chất lượng sản phẩm và tăng năng lực phản ứng với sự thay đổi của khách hàng. Các hoạt động của XP gồm: Thiết kế, Coding, Testing và Listening. 
+  
 Cách làm mới với XP: 
   - `Pair Programming`: Hai người làm cùng 1 task, cùng thời gian. 
   - `Continous Intergration/ Continous Delivery`

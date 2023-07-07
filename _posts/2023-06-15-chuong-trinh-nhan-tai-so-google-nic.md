@@ -2,22 +2,20 @@
 layout: post
 title: Khóa học Nhân Tài Số của Google
 subtitle: Mở rộng kiến thức, phát triển bản thân
-cover-img: /assets/img/cat-with-laptop.jpg
+#cover-img: /assets/img/cat-with-laptop.jpg
 thumbnail-img: /assets/img/cat-with-laptop.jpg
 share-img: /assets/img/cat-with-laptop.jpg
 tags: [cousera, goole, khóa-học]
 ---
 
-## Lời dẫn
+> Tháng 8/2022 mình có may mắn đăng kí tham giao khóa học miễn phí của `Google` trên Cousera. Đây là chương trình hợp tác giữa `Trung tâm Đổi mới sáng tạo Quốc gia (NIC) - Bộ Kế hoạch và Đầu tư ` và `Google` giúp học viên mở rộng kiến thức và sự nghiệp dựa trên các khoán học được cấp chứng chỉ `Google Career Certificates`
 
-Tháng 8/2022 mình có may mắn đăng kí tham giao khóa học miễn phí của `Google` trên Cousera. Đây là chương trình hợp tác giữa `Trung tâm Đổi mới sáng tạo Quốc gia (NIC) - Bộ Kế hoạch và Đầu tư ` và `Google` giúp học viên mở rộng kiến thức và sự nghiệp dựa trên các khoán học được cấp chứng chỉ `Google Career Certificates`
-
-<p><em>Sứ mệnh của chúng tôi đối với Việt Nam là cung cấp công bằng cơ hội kỹ thuật số cho tất cả người dân Việt Nam. Chúng tôi cam kết thúc đẩy quá trình chuyển đổi số của quốc gia và hỗ trợ những nỗ lực của chính phủ trong việc xây dựng một đội ngũ nhân tài số mạnh mẽ đồng thời giúp các công ty khởi nghiệp trong nước phát triển. Chương trình Phát triển Nhân tài số và Chương trình Hỗ trợ doanh nghiệp khởi nghiệp hướng đến việc khai phá cơ hội cho nhiều người hơn bằng cách tạo điều kiện tiếp cận cơ hội việc làm kỹ thuật số và hỗ trợ các doanh nhân Việt Nam phát triển kinh doanh</em></p> [Nguồn](https://kinhtevadubao.vn/google-hop-tac-voi-nic-trao-20000-suat-hoc-bong-cong-nghe-thong-tin-23283.html)
+> <p><em>Sứ mệnh của chúng tôi đối với Việt Nam là cung cấp công bằng cơ hội kỹ thuật số cho tất cả người dân Việt Nam. Chúng tôi cam kết thúc đẩy quá trình chuyển đổi số của quốc gia và hỗ trợ những nỗ lực của chính phủ trong việc xây dựng một đội ngũ nhân tài số mạnh mẽ đồng thời giúp các công ty khởi nghiệp trong nước phát triển. Chương trình Phát triển Nhân tài số và Chương trình Hỗ trợ doanh nghiệp khởi nghiệp hướng đến việc khai phá cơ hội cho nhiều người hơn bằng cách tạo điều kiện tiếp cận cơ hội việc làm kỹ thuật số và hỗ trợ các doanh nhân Việt Nam phát triển kinh doanh</em></p> [Nguồn](https://kinhtevadubao.vn/google-hop-tac-voi-nic-trao-20000-suat-hoc-bong-cong-nghe-thong-tin-23283.html)
 
 
-Việc đăng kí cũng hết sức đơn giản, bạn điền vào form, cung cấp thông tin khóa học và địa chỉ email đăng kí trên Cousera. Khi link đăng kí được kích hoạt. Bạn đăng nhập vào trang Cousera và nhận thấy mình có thể được học các khóa của của goole miễn phí. 
+> Việc đăng kí cũng hết sức đơn giản, bạn điền vào form, cung cấp thông tin khóa học và địa chỉ email đăng kí trên Cousera. Khi link đăng kí được kích hoạt. Bạn đăng nhập vào trang Cousera và nhận thấy mình có thể được học các khóa của của goole miễn phí. 
 
-Bình thường bạn phải trả tiền cho từng khóa để học
+> Bình thường bạn phải trả tiền cho từng khóa để học (Khoảng $1,000) để hoàn thành 5-6 khóa học và được cấp chứng chỉ.
 
 ## Các khóa học trong chương trình của Google
 

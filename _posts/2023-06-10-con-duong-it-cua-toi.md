@@ -8,7 +8,7 @@ share-img: /assets/img/heComputer.gif
 tags: [IT, timeline]
 ---
 
-Thật khó mà tưởng tượng được công nghệ đã thay đổi như thế nào từ khi tôi chạm vài máy tính cá nhân lần đầu tiên năm 2004. 20 năm sau, mọi dữ liệu của tôi giờ đang ở trên mây.
+> Thật khó mà tưởng tượng được công nghệ đã thay đổi như thế nào từ khi tôi chạm vài máy tính cá nhân lần đầu tiên năm 2004. 20 năm sau, mọi dữ liệu của tôi giờ đang ở trên mây.
 
 1. Chiếc máy tính đầu tiên
 

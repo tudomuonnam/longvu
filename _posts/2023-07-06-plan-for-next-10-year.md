@@ -7,12 +7,6 @@ thumbnail-img: assets/img/BusineseCycle_Chart.jpg
 share-img: assets/img/BusineseCycle_Chart.jpg
 tags: [IT,plan,time-line,look-back]
 ---
-
-Kế hoạch 10 năm: Một vài kết quả - Một vài dự định
-==================
-
-<img src="/assets/img/BusineseCycle_Chart.jpg" alt="Business cycle" style="border: 2px solid  gray;">
-
 > Khủng hoảng kinh tế là điều tồi tệ không ai muốn. Nhưng nó vẫn xảy ra đều đặn và mọi người vẫn ngạc nhiên khi mọi thứ ập đến. Thật kì lạ.
 > 
 > Như mọi người vẫn nói "Bạn luôn có một kế hoạch cho đến khi bị đấm vào mặt". Ngay khi khủng hoảng đến, mọi người than thở. Giữa khủng khoảng, nhiều tài sản sang tay, nhiều lòng tham bắt đáy. Cuối khủng hoảng, những người bắt đáy sớm bắt đầu đứt tay, thêm tài sản sang tay.
@@ -23,6 +17,8 @@ Kế hoạch 10 năm: Một vài kết quả - Một vài dự định
 
 
 Tuy nhiên, bây giờ (đúng ra là sớm hơn một chút nữa) là lúc suy nghĩ nghiêm túc đến một cơ hội mới sau khủng hoảng. Rất nhiều thứ mất mát và phải bỏ đi. Nhưng tầm nhìn 10 năm nữa thì lại tươi sáng. Thử nhìn lại những gì đã làm được và mục tiêu kế tiếp
+
+<img src="/assets/img/BusineseCycle_Chart.jpg" alt="Business cycle" style="border: 2px solid  gray;">
 
 ## Những gì đã đạt được
 

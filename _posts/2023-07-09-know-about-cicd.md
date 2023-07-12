@@ -6,7 +6,6 @@ cover-img:
 thumbnail-img: /assets/img/team-work.jpg
 share-img: /assets/img/team-work.jpg
 tags: [IT, CI-CD,books,agile, DevOps ]
-tags: [test]
 comments: true
 ---
 > I have quick note when reading book: [**CI-CD Pipeline with Docker and Jenkins. Learn How to Build and Manage Your CI-CD Pipelines Effectively (2023) by S. Rawat**](https://www.amazon.com/Pipeline-Docker-Jenkins-Pipelines-Effectively-ebook/dp/B0BS6BZP8Q) and have translate to vietnamese later.

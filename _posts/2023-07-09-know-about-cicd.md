@@ -1,14 +1,28 @@
 ---
 layout: post
 title: CI-CD Pipeline with Docker and Jenkins. Learn How to Build and Manage Your CI-CD Pipelines Effectively (2023)
-subtitle: Note
-cover-img: /assets/img/foundation-project-management.png
-thumbnail-img: /assets/img/foundation-project-management.png
-share-img: /assets/img/foundation-project-management.png
+subtitle: Note (English)
+cover-img: 
+thumbnail-img: /assets/img/team-work.jpg
+share-img: /assets/img/team-work.jpg
 tags: [IT, CI-CD,books,agile, DevOps ]
 tags: [test]
 comments: true
 ---
+> I have quick note when reading book: [**CI-CD Pipeline with Docker and Jenkins. Learn How to Build and Manage Your CI-CD Pipelines Effectively (2023) by S. Rawat**](https://www.amazon.com/Pipeline-Docker-Jenkins-Pipelines-Effectively-ebook/dp/B0BS6BZP8Q) and have translate to vietnamese later.
+>
+> It's full of technical knowledge about how to transform code from developer to productions. Spoil: It's long journey with a lot of stages: from Development to QA, Security, Performance, Business tesing Environment.
+>
+> Each Environment have many stage too, if code fail in a single stage, it's back to start or simple throw out. Now, it's looklike a production in industry sector (and it does) 
+>
+> Good new are we can automation all (or almost) stages. Bad new is DevOps need have knowledge of wide range: form development, security, business ... That's what I love in DevOps. We've never stopped learning.
+> 
+<figure>
+<img src="/assets/img/team-work.jpg" alt="team-work" style="border: 2px solid  gray;">
+<figcaption>How to setup a CI/CD pipeline.  Photo by <a href="https://unsplash.com/@lazizli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lala Azizli</a> on <a href="https://unsplash.com/photos/tfNyTfJpKvc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </figcaption>
+</figure>
+
 
 ## Chapter 2
 
@@ -103,7 +117,7 @@ Self-hosted and Managed
 - Extensible: It can be extended utilizing its plugin architecture, providing nearly endless possibilities for what it can do.
 - Easy Distribution: Jenkins can efficiently distribute work across multiple machines for faster builds, tests, and deployments across multiple platforms.
 - Notification Support: Integrations available to notify the build status on various communication channels.
-- Active community. The Jenkins community provides a guided tour introducing the basics and advanced tutorials for more sophisticated use of the tool. They also hold an annual conference DevOps World |Jenkins World.
+- Active community. The Jenkins community provides a guided tour introducing the basics and advanced tutorials for more sophisticated use of the tool.
 - No expenses required: Jenkins is an open-source resource backed by
 heavy community support.
 
@@ -126,8 +140,15 @@ heavy community support.
 - Authorization
   - Login User can do anything
   - Role base, matrix-base 
+
 ### Jenkins pipeline
 Create first Jenkinfile and config Jenkins over github
 
 ## Chapter 4: CI with Jenkins
+Full of techincal 
 
+## Conclude
+
+Software Development is not only Coding. It's have a lot of people and process: Project management, Propotype/webflow, Graphics/Content, Frontend/backend, and DevOps.
+
+Here are google sheet that include steps to deploy a DevOps process: [CI/CD pipeline: Stages, test, tools](https://docs.google.com/spreadsheets/d/143-oCLbYMaJTyngbpgmLGt6SS09618EXo7VkoNbhJ0Q/edit?usp=sharing)

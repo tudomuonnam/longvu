@@ -117,6 +117,7 @@ DevOps đẩy nhanh quá trình phát triển phần mềm nhờ thực thi hai 
 1. Continous Intergration
 2. Continous Deployment
 3. Infrastructure as Code
+4. Cloud Computing
 
 Mình sẽ có những bài viết thiên về kĩ thuật của DevOps trong thời gian tới 
 

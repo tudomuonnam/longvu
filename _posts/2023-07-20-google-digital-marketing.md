@@ -181,10 +181,45 @@ Benefit:
 - measure social media ROI
 - improve social media strategies
 **Metrics to track with social media analytics**
-1. Brand awareness metrics. Measure the attention your brand received over social platform during report period.
+1. Brand awareness metrics. 
+Measure the attention your brand received over social platform during report period.
 
-Measure: number of like, share, meantion, link to your content and impression your brand has received in period. (Impression: piece of content display to your target audience)
-2. 
+Measure metrics: number of like, share, meantion, link to your content and impression your brand has received in period. (Impression: piece of content display to your target audience)
+
+**Awareness steps:** impression
+**Considerations:** applause rate: number of approval actions: likes, mentions, retweet or favorites the post received over total followers.
+**Conversions:** Referal rate: how someone was guided to your website.
+**Loyalty**: any customer review, assessment,comment, endorsement, or interview relate to your brand.
+
+2. Social testing
+
+Social testing is an experimental process that shows how social media content is performing among target audiences. In this reading, you will learn about the different types of social testing and how each can help a brand’s social presence.
+- **A/B testing**
+
+A/B testing compares two versions of a post with a single differing variable. For example, to test how to increase website traffic, you might run two paid social media ads that send the user to your homepage. The ads can be exactly alike, except for one changed variable. Maybe one ad includes a headline with a popular song reference in it, while the other one doesn’t. If your audience clicks on the version with the popular song reference in it more often than the other version, you may feel more confident using pop culture references in the future. 
+- **Multivariate testing**
+
+Multivariate testing compares two or more versions of a post with several differing variables. For example, to find out how different variations of an ad you created perform against each other, you might create four different versions. Version one would include an image with a caption. Version two would include a GIF instead of an image and a different caption. Version three would include different copy and a different color scheme, and on the fourth version, you might change the color scheme and also include the GIF you used in the second variation. 
 
 
 
+### Social marketing report
+Collect all results and compare to KPI
+
+Types of reports 
+- Operational reports
+
+Operational reports give team members real-time updates and information on metrics like audience growth rates, impressions, click-through rates, and more. These reports provide social media marketers with the data they need to track a campaign's success—and fast—so they can adjust their strategy when necessary.
+
+- Insight reports
+
+Insight reports offer more than just raw data to your team members and stakeholders—they provide storylines that help explain your campaign. The purpose of insight reporting is to search for meaning in the data and to communicate that meaning at a high-level to stakeholders. These reports answer questions like: why are your click-through rates high? Which social media platforms generate the most leads? Does your audience prefer video-based content or image-based content, and what does that mean for your budget? What trends do you see in the data and why?
+
+- Informative reports
+
+Informative reports are mostly used to provide company leadership with a broader understanding of campaign performance. Larger metrics like return on investment (ROI), and other key performance indicators (KPIs) are presented in informative reports because they show the value of campaigns at a high-level. These reports should be very clear and concise, as company leaders may not have a lot of time to analyze insights.
+
+**Tools for report**
+- Google Data Studio with (Template)[https://datastudio.google.com/gallery?category=marketing]
+
+## Week 5 The value of paid ads on social media

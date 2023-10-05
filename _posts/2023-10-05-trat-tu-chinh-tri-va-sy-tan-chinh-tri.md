@@ -3,8 +3,8 @@ layout: post
 title: Nguồn gốc trật tự chính trị 
 subtitle: Nhân dịp đọc sách của Francis Fukuyama
 cover-img: 
-thumbnail-img: /assets/img/team-work.jpg
-share-img: /assets/img/team-work.jpg
+thumbnail-img: /assets/img/Fukuyama-nguon-goc-chinh-tri-01.jpg
+share-img: /assets/img/Fukuyama-nguon-goc-chinh-tri-01.jpg
 tags: [đọc sách, chính trị, fukuyama]
 comments: true
 ---

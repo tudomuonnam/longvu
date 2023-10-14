@@ -3,9 +3,9 @@ layout: post
 title: Ai rồi cũng chọn sai thôi 
 subtitle: Làm gì trong tình thế bỏ thì thương mà vương thì tội
 cover-img: 
-thumbnail-img: /assets/img/Fukuyama-nguon-goc-chinh-tri-01.jpg
-share-img: /assets/img/Fukuyama-nguon-goc-chinh-tri-01.jpg
-tags: [đọc sách, chính trị, fukuyama]
+thumbnail-img: /assets/img/bad-decisions.jpg
+share-img: /assets/img/bad-decisions.jpg
+tags: [ý kiến, cơ hội, lời khuyên, sinh viên, học lại, lựa chọn]
 comments: true
 ---
 

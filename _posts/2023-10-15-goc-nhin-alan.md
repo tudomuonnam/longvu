@@ -59,4 +59,5 @@ Việt Nam vẫn đang làm tốt trong việc hội nhập thương mại giữ
 Còn nhiều nhưng buồn ngủ rồi. Hi vọng có thời gian rảnh lại tổng hợp tiếp. Hiện nay, 2023, Thị trường nhà đất, tuy trầm lắng nhưng đã kịp tăng giá gấp 2 - 3 lần so với nhận định của ông. Tình hình thế giới khá căng thẳng với chiến tranh Nga -Ukraina, Israel - Hamas. Việt Nam nằm giữa sức ép của các siêu cường vẫn kiên trì phát triển. Còn thành hay bại lại phải chờ 10 năm nữa mới rõ. 
 
 Trong khi đó tên tuổi của các nhà nhận định được tung hô bấy lâu đã gần như mất tích và quên lãng. 
+Trong khi đó tên tuổi của các nhà nhận định được tung hô bấy lâu đã gần như mất tích và quên lãng. 
 

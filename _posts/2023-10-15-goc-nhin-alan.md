@@ -5,7 +5,7 @@ subtitle: Hóa ra không phải người giỏi là nhận định đúng
 cover-img: 
 thumbnail-img: /assets/img/tranh-dan-gian.jpg
 share-img: /assets/img/tranh-dan-gian.jpg
-tags: [âm nhạc, tự sự]
+tags: [goc nhin alan, alan phan, doc sach]
 comments: true
 ---
 

@@ -3,8 +3,8 @@ layout: post
 title: Lãi suất cho vay bao nhiêu là đủ? 
 subtitle: Dấu hiệu đầu tiên để nhận biết lừa đảo
 cover-img: 
-thumbnail-img: /assets/img/dau-tu.jpeg.jpg
-share-img: /assets/img/dau-tu.jpeg.jpg
+thumbnail-img: /assets/img/dau-tu.jpeg
+share-img: /assets/img/dau-tu.jpeg
 tags: [dau-tu, lai-suat, choi-hui, cfa]
 comments: true
 ---

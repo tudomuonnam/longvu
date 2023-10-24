@@ -12,7 +12,7 @@ comments: true
 > Lòng tham của con người là vô đáy. Đúng vậy. Chúng ta luôn tìm cách nâng số tiền kiếm được lên mức cao nhất. Nhưng cũng có câu, miếng pho mát miễn phí luôn nằm trong bẫy chuột. Vậy vấn đề ở đây là chúng ta cần tham, nhưng cũng cần suy nghĩ logic để lòng tham không bị lợi dụng và biến thành vũ khí để hại chính mình.
 >
 > Bài viết này sẽ bàn trong một phần của việc "đầu tư", nếu bạn có một khoản tiền và dự định "đầu tư" hoặc cho ai đó "vay" và "hứa hẹn" một khoản lợi nhuận hay lãi suất khổng lồ. Giúp bạn có cơ sở để nhận định khoản "đầu tư" đó là ổn hay lừa đảo.
->
+
 1. Lợi nhuận và rủi ro
 
 Đầu tiên, không thể nhắc đến lợi nhuận mà không nhắc đến rủi ro. Chúng là hai mặt của một đồng xu, không thể tách rời. Không có một khoản đầu tư nào mang lại lợi nhuận mà không có rủi ro và ngược lại. 
@@ -97,6 +97,7 @@ Không giống với cho vay/tiết kiệm. Hình thức góp vốn ***không th
 Đầu tư chứng khoán, chứng chỉ quỹ cũng thuộc kiểu hợp đồng góp vốn. Công ty/ chủ dự án không thể cam kết mức lợi nhuận thu được để trả cho người góp. Do vậy lợi nhuận có thể cao, với các công ty nhỏ, khởi nghiệp có thể đến 50% hay đầu tư chứng khoán có kì vọng khoảng 15% nếu đầu tư lâu dài (10-20 năm). 
 
 5. Một vài rút gọn đơn giản
+   
 Kiến thức đầu tư là rất rộng lớn, nếu bạn hoàn toàn nghiêm túc đến vấn đề này, hãy tìm hiểu và theo học CFA hay chuyên ngành tài chính đầu tư. Sau đây là một vài rút gọn, phần nhiều mang tính cá nhân. Tuân thủ theo những lời khuyên này sẽ khiến bạn bỏ lỡ cơ hội "đổi đời qua đêm" như Bitcoin 5k hay mua đất qua đêm giá tăng gấp đôi. Tuy nhiên nó cũng giúp bạn tránh được thảm họa khi giá tài sản bốc hơi qua đêm. 
 
 - Mọi khoản đầu tư phải nằm trong quy định của nhà nước.

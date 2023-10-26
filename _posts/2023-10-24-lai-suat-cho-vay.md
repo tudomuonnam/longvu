@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lãi suất cho vay bao nhiêu là đủ? 
-subtitle: Dấu hiệu đầu tiên để nhận biết lừa đảo
+subtitle: Đừng cho ai vay/đầu tư hứa hẹn lãi suất/lợi nhuận cao trước khi đọc bài viết này.
 cover-img: 
 thumbnail-img: /assets/img/dau-tu.jpeg
 share-img: /assets/img/dau-tu.jpeg

@@ -11,7 +11,7 @@ comments: true
 
 > Học kinh tế có nhiều bài học hay có thể áp dụng ngay trong cuộc sống và lựa chọn nghề nghiệp. Ví dụ, chúng ta không nên lựa chọn ngành nằm trong thị trường hoàn hảo, nơi sản phẩm được tiêu chuẩn hóa và rào cản gia nhập ngành thấp
 
-1. Thị trường quá đỏ
+***1\. Thị trường quá đỏ***
 
 Hãy nhìn thị trường gọi xe qua app. Cách đây chắc khoảng 5 năm, khi các app gọi xe ra đời và đi vào thị trường tạo ra đột phá lớn. Nhiều bạn sinh viên mới ra trường dễ dàng gia nhập lực lượng xe ôm vì chê công việc chuyên môn vất vả, đau đầu và lương thấp. 
 
@@ -23,7 +23,7 @@ Có bằng đại học và có chuyên ngành, kĩ năng, thang bảng lương 
 
 Làm xe ôm công nghệ, bạn đã lựa chọn dễ dãi trước và "hưởng" đầy đủ hậu quả sau này. Liệu kinh nghiệm chạy xe ôm 5 năm hay là kĩ sư công trường 5 năm sẽ giúp bạn tìm được công việc mới tốt hơn? Chưa kể việc ở ngoài trời sẽ ảnh hưởng đến sức khỏe thế nào. Và theo mình nặng nề nhất là `bạn đã từ bỏ lợi thế cạnh tranh của bản thân (trẻ, có bằng cấp) để đi "cướp" việc làm của các bác xe ôm già, thất nghiệp`.
 
-2. Thị trường quá xanh 
+***2\. Thị trường quá xanh***
 
 Hãy nhìn thị trường tiền ảo cách đây cũng khoảng 5 năm (từ 2018) khi đó sự trồi sụt của Bitcoin từ giai đoạn trước đó đã khiến nhiều tỷ phú hụt và vô vàn các thanh niên chết vì mua đỉnh. Bẵng đi một thời gian, cùng COVID và chính sách tiền rẻ của các quốc gia trên toàn thế giới. Tiền ảo mọc lên như nấm sau mưa, lại nhiều tỷ phú nổi lên và báo chí đăng bài về tiền ảo như nấm sau mưa. 
 
@@ -34,7 +34,7 @@ Họ dễ dàng thịt hàng trăm, hàng nghìn người nhỏ lẻ yếu ớt 
 - Lãi suất / Lợi nhuận quá lớn. Một giáo sư VN dạy ở Anh vẫn thường khoe đầu cơ tiền ảo gì đó rồi cho vay qua hệ thống để kiếm lợi nhuận trên trời. Tất cả sử dụng công nghệ trong tiền ảo! Bản thân mình có buôn thúng bán mẹt chút ít và cũng hiểu rằng [hứa hẹn lợi nhuận cao có thể là lừa đảo](http://www.longvd.id.vn/2023-10-24-lai-suat-cho-vay/). Tự thân mình hiểu mình chỉ là nhỏ lẻ, nên luôn phải cẩn trọng trên các sòng bài `Trong sòng bài, luôn có kẻ đi lừa và người bị lừa, nếu bạn không biết ai là kẻ lừa đảo, vậy đích thị bạn là kẻ bị lừa`
 - Bài học quá khứ đã cảnh báo. Nếu bạn đủ già (như mình) hoặc đã từng đọc sách về kinh tế và các cuộc khủng hoảng trước đó. Bạn có thể thấy chúng luôn lặp lại. Hãy xem cuộc khủng hoảng dotcom những năm 2000, khi mà internet bắt đầu tràn ngập và người ta cho rằng việc đăng kí, đầu cơ các tên miền mới độc lạ có thể bán với giá cao không tưởng. Hay như những năm 198x, cuộc khủng hoảng trái phiếu rác, nơi các công ty in trái phiếu bán vô tội vạ dẫn đến các vụ phá sản hàng loạt. 
 
-3. Lựa chọn thế nào?
+***3\. Lựa chọn thế nào?***
 
 Mình cho rằng, có một chuyên môn tốt, dựa trên việc học và có chứng chỉ như bằng đại học, chứng chỉ CFA, CCNA, SAA ... VÀ một thái độ làm việc tốt VÀ kinh nghiệm làm việc từ 3-5 năm trở lên sẽ là con đường đi dễ dàng và ít chông gai nhất để phát triển bản thân. Sau khi ra trường và đi đúng con đường này khoảng 5 năm. Rất nhiều cơ hội có thể mở ra: 
 - Dựa trên kinh nghiệm có được, có thể nhảy việc và deal lương tốt
@@ -45,7 +45,7 @@ Với kiến thức + thái độ + kĩ năng tốt, thật khó để công ty 
 
 Vì vậy khi mới ra trường, hãy chọn việc khó trước, đừng chọn việc nhàn, việc dễ. 
 
-4. Kết
+***4\. Kết***
 
 Khi đi ra đường, không biết bạn có hay nhìn đèn xanh, đèn đỏ từ xa? Đừng vui mừng khi thấy đèn xanh, vì khi bạn đến chân đèn, khả năng cao sẽ chuyển sang màu đỏ và bạn phải đợi. Hãy mừng nếu đèn đang màu đỏ, vì có khả năng khi bạn bước đến sẽ gặp đèn xanh. 
 

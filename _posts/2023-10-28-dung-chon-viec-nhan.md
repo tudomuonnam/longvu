@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Đại dương xanh, đại dương đỏ  
-subtitle: Và áp dụng vào lựa chọn nghề nghiệp 
+subtitle: Và áp dụng vào lựa chọn nghề nghiệp, đầu tư 
 cover-img: 
 thumbnail-img: /assets/img/red-blue-ocean.jpeg
 share-img: /assets/img/red-blue-ocean.jpeg

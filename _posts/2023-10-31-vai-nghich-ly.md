@@ -9,6 +9,8 @@ tags: [nghich-ly, ly thuyet]
 comments: true
 ---
 
+> 
+
 ***1\. Thế giới quả là rộng lớn và có nhiều việc phải làm ***
 
 Câu này của ngài `Kim Woo Choong` - người sáng lập tập đoàn `Daewoo` trong cuốn sách cùng tên viết về cuộc đời ông. Là câu trích dẫn được rất nhiều người sử dụng. Đáng tiếc cuối đời ông đã __làm những việc không nên làm__, cụ thể công ty ông đã vay nợ quá nhiều, dẫn đến phá sản và phải ngồi tù 10 năm cho đến lúc mất.

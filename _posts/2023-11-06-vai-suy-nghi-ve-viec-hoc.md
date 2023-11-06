@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Vài suy nghĩ theo dòng thời sự
-subtitle: Về các cuộc chiến tranh áp dụng trong doanh nghiệp 
+title: Kỉ niệm học trò
+subtitle: Và kinh nghiệm để thành công  
 cover-img: 
 thumbnail-img: /assets/img/city-candy.jpeg
 share-img: /assets/img/city-candy.jpeg
@@ -31,6 +31,6 @@ Anyway, khi nhìn lại, mình thấy có một vài đúc rút như thế này:
 - ***Kĩ năng để thành công ở các cấp học, cấp làm là khác nhau***. Bạn giỏi ở Phổ Thông không chắc đã giỏi ở bậc Đại Học. Bạn có bằng giỏi ở Đại Học cũng không đảm bảo bạn xin được việc làm tốt và thành công trên con đường công danh, việc làm. Cực đoan hơn, kĩ năng giúp bạn thành công ở vị trí bán hàng, bị trí quản lý cấp trung hay làm chủ doanh nghiệp là khá khác nhau. Và, kĩ năng thành công với ngành nghề này có thể không đảm bảo sẽ thành công ở ngành khác. Vì vậy, việc tự học, học suốt đời là phải làm. 
 - Kĩ năng thành công trong công việc, gói gọn trong 1 câu: ***Sếp luôn luôn đúng. Nếu Sếp sai, xem lại điều 1***. Câu này thầy Tuấn dạy môn Robot Công Nghiệp năm 5 đã nói với lớp mình. Mình không nhớ gì về robot nữa nhưng câu này thì mình vẫn nhớ và thấy đúng. Thi thoảng mình lơ là là bị Sếp vả liền. Việc của bạn rất đơn giản: Xác định xem ai là Sếp mình. Và, Sếp bảo sao nghe vậy. Nếu sau 2-3 năm không thấy tiến bộ thì Sa thải Sếp. 
 
-***3\. Kết ***
+***3\. Kết***
 
 Thời gian đẹp nhất của đời người là lúc học trò, chưa phải lo cơm áo gạo tiền. Mọi thứ đều đẹp và vô tư. Tuy nhiên với 1 mindset đúng ngay từ đầu, có thể bạn sẽ đỡ vất vả và vấp váp trong suốt cuộc đời làm việc sau này. 

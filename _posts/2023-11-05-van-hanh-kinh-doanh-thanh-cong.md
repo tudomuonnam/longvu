@@ -32,7 +32,7 @@ Một người chỉ quản lý hiệu quả 5-10 người. Nhớ hết tên, nh
 
 Khi khủng hoảng xảy ra như hiện tại (2023) mới thấy rõ bộ máy tinh gọn với quỹ lương thấp tốt đến mức nào. 
 
-***2\. Tăng quy trình ***
+***2\. Tăng quy trình***
 
 Với các ngành nghề chân tay, đơn giản, tính lương theo giờ như phục vụ, bán hàng tại quầy ... việc nhân viên thay đổi hằng ngày, hàng tháng là chấp nhận được và phải có quy trình để nhân viên mới có thể hòa nhập và làm việc nhanh nhất có thể. 
 
@@ -48,12 +48,12 @@ Máy móc không than thở, chỉ trích lẫn nhau. Không đòi tăng lương
 
 Máy móc giúp giảm sự phức tạp của quy trình. Vận hành một cái máy pha cafe. Ấn nút này, nút kia thì đơn giản hơn là pha phin: đổ cái này vào, rót bao nhiêu ml, chờ bao nhiêu phút ... nhiều bước và có nguy cơ sai nếu không phải chuyên gia và quan trọng nhất là sản phẩm đầu ra không thống nhất, lúc ngon hơn, lúc dở hơn.
 
-***4\. Kết ***
+***4\. Kết***
 
 Những lời nói dông dài này nhìn qua rất dễ, thực hành thì khó hơn. Cám dỗ để tuyển thêm nhân viên, gia tăng điểm bán nhằm tăng doanh thu là rất lớn. Đến khi doanh thu không đạt kì vọng để nuôi hệ thống dẫn đến phá đi làm lại là rất khó khăn và mệt mỏi. 
 
 Biên pháp hợp lý hơn với một SME là: Hệ thống xoay quanh phần mềm ERP, hay mới thì xoay quanh phần mềm bán hàng cũng ổn. Xây dựng 5 người chủ chốt các phòng ban: Bán hàng, kế toán, vận chuyển, marketing. Chủ DN làm việc trực tiếp với 5 bạn này. Còn các bạn này quản lý 5 bạn ở dưới nữa là ổn. 
 
-___Khẩu quyết của mình là: Làm việc với quy trình, sử dụng ít người nhất có thể, giữ lương trên mức trung bình ngành và tăng máy móc hơn tăng người. ___
+___Khẩu quyết của mình là: Làm việc với quy trình, sử dụng ít người nhất có thể, giữ lương trên mức trung bình ngành và tăng máy móc hơn tăng người.___
 
 Để mình nhớ gì sẽ viết thêm 

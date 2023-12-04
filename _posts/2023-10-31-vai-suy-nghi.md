@@ -20,3 +20,5 @@ comments: true
 - "Tôi làm việc này vì tiền" có thể không quá tệ lúc đầu, nhưng về lâu dài thì không ổn lắm.
 Nếu công việc không kiếm được tiền, tâm trạng của bạn sẽ sụp đổ nhanh chóng. Nhìn chung tâm trạng sẽ lên xuống hàng ngày theo lượng tiền có được. Bạn sẽ không dám dứt ra khỏi công việc vì sợ mất tiền, mất thời gian đầu tư vào công việc đó. Dành tất cả thời gian vào công việc để kiếm được nhiều tiền hơn... 
 Tốt nhất là vẫn làm việc (để kiếm tiền) và giữ một sử thích, thói quen nào đó để cân bằng và tìm niềm vui trong cuộc sống. Bên cạnh đó vẫn phải dành thời gian cho gia đình (chắc chắn rồi)
+- Leo núi, dành 2 phần sức leo lên, một phần sức leo xuống. Kinh doanh, dành 2 phần vốn setup, 1 phần vốn vận hành. Hai phần lời đầu tư, 1 phần lời tiết kiệm. Trẻ dành 2 phần sức kiếm tiền, 1 phần dành cho gia đình, sức khỏe. 
+- 

@@ -67,9 +67,12 @@ Trở lại bài hát `Trong Ánh Sáng của Phận số`, có hai version khá
 
 Tình yêu, dù bạn ở tuổi nào, khi nhìn lại vẫn luôn trong sáng và tuyệt đẹp!
 
+
+P/s: Mới tối nay ngồi xem một câu chuyện về một anh chàng người Trung Mỹ đã dẫn bạn gái mình vượt qua hàng ngàn km qua Mexico trong 21 ngày để đến Mỹ như một người nhập cư trái phép. Câu chuyện chính là về những chuyến đi bất khả thi, nhưng cách kể chuyện và nhân vật chính, về tình yêu của họ và cách họ vượt qua khó khăn cũng rất đáng yêu và cảm động. Cầu chúc hạnh phúc cho đôi bạn trẻ. Link số 5 
 ***Tham khảo***
 
 1. [Youtube - từ phút 27:08- Bản balad](https://youtu.be/sEuun_QMBjg?si=X495cfAIRLDXjCd6&t=1629)
 2. [Cùng bài hát - do Ngọc Anh hát](https://youtu.be/zZzF0zChkXI?si=UgYMtrdU0kds3jZ0)
 3. [Bài thơ "Trong ánh chớp của số phận" - website thica](https://www.thivien.net/%C3%9D-Nhi/Trong-%C3%A1nh-ch%E1%BB%9Bp-s%E1%BB%91-ph%E1%BA%ADn-N%C4%83m-l%E1%BB%9Di-c%E1%BB%A7a-b%C3%A0i-h%C3%A1t/poem-WGOaOdTGzi4AmnIzotYoyQ)
 4. [My Sweet and Tender Beast - Waltz by Eugen Doga](https://youtu.be/gvUg7KLAclA)
+5. [Con đường bất khả thi-Mexico, một chuyến tàu đến Eldorado](https://youtu.be/Cea8piIE1Jw)

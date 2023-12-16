@@ -69,6 +69,8 @@ Tình yêu, dù bạn ở tuổi nào, khi nhìn lại vẫn luôn trong sáng v
 
 
 P/s: Mới tối nay ngồi xem một câu chuyện về một anh chàng người Trung Mỹ đã dẫn bạn gái mình vượt qua hàng ngàn km qua Mexico trong 21 ngày để đến Mỹ như một người nhập cư trái phép. Câu chuyện chính là về những chuyến đi bất khả thi, nhưng cách kể chuyện và nhân vật chính, về tình yêu của họ và cách họ vượt qua khó khăn cũng rất đáng yêu và cảm động. Cầu chúc hạnh phúc cho đôi bạn trẻ. Link số 5 
+
+
 ***Tham khảo***
 
 1. [Youtube - từ phút 27:08- Bản balad](https://youtu.be/sEuun_QMBjg?si=X495cfAIRLDXjCd6&t=1629)

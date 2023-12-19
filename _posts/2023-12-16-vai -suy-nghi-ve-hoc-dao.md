@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Cái giá của việc thiếu kiến thức, của việc chuyên nghiệp
-subtitle: Và nguyên lý cái thùng gỗ 
+title: Vài suy nghĩ về học, nêu vấn đề và giải quyết vấn đề
+subtitle: Thế nào là đúng, đủ
 cover-img: 
 thumbnail-img: /assets/img/music.jpeg
 share-img: /assets/img/music.jpeg

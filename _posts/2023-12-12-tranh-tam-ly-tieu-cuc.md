@@ -22,7 +22,7 @@ comments: true
 
 ***1\. Biện pháp tức thời***
 
-- Đọc sách, nghe nhạc
+- Đọc sách, nghe nhạc tích cực
 - Nghỉ ngơi, ngủ đủ giấc
 - Thể dục nhẹ, đi dạo ngoài trời 
 

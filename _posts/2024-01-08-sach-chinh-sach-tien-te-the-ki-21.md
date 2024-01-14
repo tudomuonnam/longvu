@@ -3,11 +3,15 @@ layout: post
 title: Đọc sách "Chính sách tiền tệ thế kỉ 21"
 subtitle: Và một vài ghi chú
 cover-img: 
-thumbnail-img: /assets/img/spookies.jpeg
-share-img: /assets/img/spookies.jpeg
-tags: [nghich-ly, ly thuyet]
+thumbnail-img: /assets/img/21st-Century-Monetary-Policy.jpg
+share-img: /assets/img/21st-Century-Monetary-Policy.jpg
+tags: [FED, khủng hoảng, lãi suất, thất nghiệp, kinh tế vĩ mô]
 comments: true
 ---
+
+> Đây là phần ghi chép lại những gì đọng lại khi đọc sách nên có thể lan man, khó hiểu và không liền mạch.
+> Cần có kiến thức về kinh tế vĩ mô. Kiến thức về tiền tệ, ngân hàng, ngân hàng ngầm ... sẽ dễ hiểu hơn
+
 
 ***1\. Phần giới thiệu***
 
@@ -44,6 +48,7 @@ Các chính sách thời kì 1950 - 1980s
 2. Burns and Vocker 
 
 ***ARTHUR Burns***
+
 Logic của đường cong Phillips là sự đánh đổi giữa lạm phát và tỷ lệ thất nghiệp. Những năm 1977 chưa có luật nào quy định tỷ lệ thất nghiệp và lạm phát nên là bao nhiêu. Các nhà làm luật, những người yêu cầu tỷ lệ thất nghiệp thấp gọi là phái __bồ câu__, những người yêu cầu lạm phát thấp gọi là phái __diều hâu__. Tất nhiên có những người thay đổi từ bên này sang bên kia phụ thuộc vào tình hình kinh tế hiện tại. Năm 1978, luật yêu cầu tỷ lệ thất nghiệp cho người trên 20 tuổi là 3%, tỷ lệ thất nghiệp chung là 4%. Yêu cầu lạm phát về 0% trong 10 năm tới. FED phải đệ trình báo cáo về chính sách tiền tệ 2 lần/năm trước quốc hội.
 
 Năm 1979, sau khi rời FED, Burns có bài luận về tình trạng lạm phát, trong đó thừa nhận
@@ -57,6 +62,7 @@ Nhận được chức chủ tịch FED nhờ cam kết sẽ đánh bại lạm 
 - Thay vì cố gắng đặt chỉ tiêu cho fund rate, và chỉnh sửa dự trữ, cung tiền để phù hợp với chỉ tiêu. Ông làm ngược lại, thiết lập mục tiêu tăng trưởng tiền tệ (M2 grow) và để thị trường tự điều chỉnh fund rate. => Chính sách tiền tệ mới
 
 ***Greenspan - và thập kỉ 90s***
+
 - Bổ nhiệm 8/1987 và tại vị 18 năm 6 tháng.
 - Sau vụ sụp đổ chứng khoán chóng vánh năm 1987, Greenspan thực thi chính sách tiêu chuẩn của FED, đảm bảo phục vụ thị trường như người cho vay cuối cùng khi thị trường gặp khủng hoảng. Công cụ: dùng chứng khoán như tài sản thế chấp cho bank vay tiền để đảm bảo thanh khoản. 
 - Chính sách thứ 2 là ***đạo đức***: thuyết phục các thực thể tài chính hỗ trợ lẫn nhau thay vì chống lại nhau 
@@ -68,7 +74,7 @@ Greenspan là một nhân vật chuyển tiếp trong sự thay đổi toàn c�
 - Đầu tiên là chính sách tiền tệ sẽ hiệu quả hơn nếu những người tham gia thị trường tài chính hiểu rõ hơn suy nghĩ của các nhà hoạch định chính sách.
 - Trách nhiệm giải trình: Những người đứng đầu phải có trách nhiệm giải thích và chịu trách nhiệm về hành động của họ. 
 
-Bong bóng internet 2000s
+**Bong bóng internet 2000s**
 
 Những dấu hiệu rõ ràng hơn về cơn sốt đầu cơ không lành mạnh đã xuất hiện trong những năm cuối của thập kỷ 90s. Internet đã tạo ra một tầm nhìn về một “nền kinh tế mới” mà đôi khi ngay cả chính Greenspan cũng phải mê mẩn. Có vẻ như mọi công ty dot-com đều rất hot, bất kể đề xuất kinh doanh cơ bản có khó khăn đến đâu. Mọi người từ bỏ công việc của mình để trở thành người giao dịch đầu cơ, sử dụng máy tính ở nhà để mua và bán cổ phiếu. Trong một thời gian, dường như không thể mất tiền. Như Robert Shiller, một chuyên gia về tâm lý học của bong bóng tài chính, đã quan sát... Dấu hiệu chắc chắn nhất của bong bóng là khi mọi người đều tin tưởng rằng giá cả tăng quá mức sẽ tiếp tục tăng không có hồi kết trong tương lai gần
 
@@ -119,7 +125,7 @@ Nếu không phải lãi suất hay chính sách tiền tệ thì là gì? Hầu
 - Đổi mới trong tài chính: cùng với tiền tiết kiệm từ TQ tăng cao, khả năng đầu tư xuyên quốc gia dễ dàng. Phố wall bị ngập lụt trong nhu cầu lớn về tài sản an toàn cho các quỹ lương hưu đã xây dựng các tài sản tài chính phức tạp dựa trên các khoản vay bất động sản. 
 - Các nhà làm luật (quản lý) đã thất bại trong việc ngăn chặn việc đầu tư vào các khoản vay thế chấp siêu rủi ro nhưng gán mác an toàn.
 
-***Khủng hoảng tài chính ***
+***Khủng hoảng tài chính 2009***
 
 Vào tháng 8 năm 2007, ngân hàng Pháp BNP Paribas đã đưa ra một thông báo đáng ngạc nhiên rằng họ đã ngừng việc nhà đầu tư rút tiền từ ba quỹ nắm giữ chứng khoán được đảm bảo bởi các khoản thế chấp dưới chuẩn của Hoa Kỳ. Ngân hàng cho biết, trong điều kiện thị trường hiện tại, họ không thể định giá những chứng khoán đó nữa. Nói cách khác, vào mùa hè năm 2007, các nhà đầu tư đã bắt đầu mất niềm tin vào các chứng khoán thế chấp dưới chuẩn đến mức họ không sẵn lòng mua chúng bằng bất cứ giá nào. Thông báo này, được nhiều người coi là lời cảnh tỉnh, đã gây ra làn sóng bán tháo hoảng loạn trên toàn thế giới.
 
@@ -171,7 +177,7 @@ Trên thực tế, sự phân chia giữa chính sách tiền tệ và các côn
 
 ***Chính sách tiền tệ mới: QE***
 
-Các chương trình QE nhằm mua lại một lượng lớn chứng khoán từ các TCTD, đẩy tiền mặt ra thị trường 
+FED can thiệp trực tiếp vào thị trường bằng chính sách nới lỏng định lượng QE. Các chương trình QE nhằm mua lại một lượng lớn chứng khoán từ các TCTD như shadow banking, đẩy tiền mặt ra thị trường 
 
 ***Chính sách tiền tệ với lãi suất thấp***
 

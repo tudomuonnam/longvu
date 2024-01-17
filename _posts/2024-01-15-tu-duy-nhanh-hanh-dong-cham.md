@@ -1,0 +1,54 @@
+---
+layout: post
+title: Tư duy nhanh, hành động chậm
+subtitle: Đừng đi quá nhanh
+cover-img: 
+thumbnail-img: /assets/img/spookies.jpeg
+share-img: /assets/img/spookies.jpeg
+tags: [nhanh, chậm, tư duy]
+comments: true
+---
+
+> Gần đây mình luyện lại rubik để giảm thời gian nhìn vào màn hình. Và một chuyện khá buồn cười là khi ai đó thấy mình có rubik trên tay, mọi người sẽ bắt đầu nói rằng, họ đã thấy một ai đó trên internet có thể giải được rubik trong vài chục giây. Khi được hỏi là bạn có biết xoay rubik không? Phần lớn mọi người đều không.
+> Có lẽ một tư duy mặc định là nếu có ai đó làm nhanh hơn, tốt hơn thì mình chả nên thử làm gì!
+
+***1\.Thế giới của nhanh, vội, gấp!***
+
+Thế kỉ của internet, mọi thứ đều rất nhanh và gấp gáp. Mọi người bỏ xem phim dài 2 tiếng để xem các video tóm tắt 15 phút. Bỏ đọc những cuốn sách dày và nặng, và đắt để nghe AI tóm tắt trong vài câu lệnh. Bỏ luyện giải thuật vì các thư viện miễn phí đầy rẫy trên mạng và có thể download trong một tíc tắc. 
+
+Không ai muốn học gì nữa. Vì mọi thứ đều có sẵn trên internet. Chỉ việc tìm kiếm rồi ngồi "xem". 
+
+Không có ai động não suy nghĩ về việc gì. Vừa thấy bài toán đã muốn tìm kiếm để internet và trí tuệ nhân tạo giải hộ. 
+
+Theo quan điểm riêng của mình, điều này mang lại rất nhiều tai hại. 
+
+
+Thứ nhất, mọi người đều nghĩ mình đã rất giỏi sau vài giờ tìm hiểu một vấn đề gì đó. 
+
+Thật là một suy nghĩ sai lầm! 
+
+Theo quan sát của bản thân mình và một bài viết trên mạng thì người mới học có xu hướng đánh giá thấp sự phức tạp của vấn đề, và đánh giá cao hiểu biết của bản thân về vấn đề đó. Dẫn đến vấn đề nguy hiểm là, người ta có thể ra những quyết định dựa trên hiểu biết sai lầm của họ. Nguy hiểm hơn nếu họ ra quyết định "đúng" dựa trên hiểu biết sai. Lúc này cái tôi của họ là rất lớn và nguy hiểm hơn đang chờ họ ở phía trước!
+
+Phần lớn những người khởi nghiệp đều bắt đầu với một tâm thế lạc quan như vậy. Những người sống sót đều may mắn vượt qua những cạm bẫy đôi khi do chính họ tạo ra.
+
+Mình cho rằng những ngành khác đều tương tự
+
+Thứ hai, nếu sau vài giờ tìm hiểu mà không thành công, bạn từ bỏ việc khám phá. 
+
+Hãy xem rubik làm ví dụ, bạn thấy trên mạng người ta xoay rất nhanh, và dễ. Bạn nhanh chóng ra cửa hàng mua một cái mang về thử. Bạn nhanh chóng nhận ra phải học hàng chục công thức. Loay hoay cả ngày không được. Bạn chán nản vứt vào một góc. Hôm sau bạn lại xem video về một cái mới và quên luôn môn rubik!
+
+Mình nghĩ có rất, rất, rất nhiều bạn rơi vào trường hợp này. Học làm giàu, học giao dịch tiền số, giao dịch cổ phiếu, chứng khoán quốc tế, forex, học marketing online, bán hàng qua mạng, tiktoker, blogger ... bạn xem video và thấy mọi thứ thật tuyệt vời và kiếm được nhiều tiền. Bạn đầu tư tiền, dụng cụ, thời gian. Rất nhanh bạn thấy vô số khó khăn trong khi doanh thu không đến như kì vọng. Một số lượng lớn bỏ. Một số tồn tại được quay lại học từ những thứ cơ bản nhất và vượt qua thời gian khó khăn mới bắt đầu thấy con số. 
+
+Thứ 3, bạn cảm thấy áp lực vì mình không giỏi, thành công như những người bạn thấy trên internet 
+
+Rất, rất nhiều bạn than phiền, thậm chí áp lực tại sao mình không thành công như những tiktoker trên mạng! Thật kì lạ là, các bạn lại tin vào những hình ảnh lung linh và lời nói của những người trên mạng. Để thành công nên đọc lại mục 2. 
+
+Thứ 4, bạn học nhanh, học vội bỏ qua những bước cơ bản, phải đi để đuổi theo thành công
+
+Cách đây 10 năm, một bạn trẻ mà mình đã gặp kể lại câu chuyện của bạn ấy thế này. "Em đọc thấy người ta nói, bây giờ học đại học là không cần thiết để thành công. Vậy nên em không muốn học đại học. Bởi vì em không học đại học nên thấy việc tốt nghiệp cấp 3 là không cần thiết nên em bỏ học từ năm lớp 11. Bây giờ em đang đi học lớp CEO thành công và mong ước mở công ty riêng". Hai tuần sau bạn nhắn tin rủ mình tham gia nhóm bán hàng đa cấp để làm giàu không khó. 
+
+Mình đã không cập nhật tin tức của bạn kể từ đó. 
+
+***2\.Thành công là không gấp gáp***
+
+Trải nghiệm của bản thân mình là, không có thành công nào là đến sớm. 

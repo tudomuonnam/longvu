@@ -181,3 +181,17 @@ FED can thiệp trực tiếp vào thị trường bằng chính sách nới l�
 
 ***Chính sách tiền tệ với lãi suất thấp***
 
+***3\.Từ phục hồi kinh tế đến Covid 19***
+
+***TQ giảm giá Nhân dân tệ***
+
+- Chính sách trước đây của TQ là neo tỷ giá với USD
+- Đến 2015, khi nền kinh tế có dấu hiệu chậm lại. Dòng vốn ngoại tìm cách rút vốn, TQ đã giảm giá đồng yuan xuống 1.9% chỉ trong 1 ngày (11/8/2015)
+- Lúc này lãi suất fed fund rate đang ở mức 0.25%, FED bắt đầu có kế hoạch tăng lãi suất.
+
+***Đường cong Phillips hết thời?***
+Phần này được tách riêng ra thành bài viết mới.
+
+
+
+

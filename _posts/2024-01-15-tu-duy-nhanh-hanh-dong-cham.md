@@ -3,14 +3,21 @@ layout: post
 title: Tư duy nhanh, hành động chậm
 subtitle: Đừng đi quá nhanh
 cover-img: 
-thumbnail-img: /assets/img/spookies.jpeg
-share-img: /assets/img/spookies.jpeg
+thumbnail-img: /assets/img/red-panda-sleeping.jpg
+share-img: /assets/img/red-panda-sleeping.jpg
 tags: [tư duy, tâm lý, học, kiến thức, tự tin]
 comments: true
 ---
 
 > Gần đây mình luyện lại rubik để giảm thời gian nhìn vào màn hình. Và một chuyện khá buồn cười là khi ai đó thấy mình có rubik trên tay, mọi người sẽ bắt đầu nói rằng, họ đã thấy một ai đó trên internet có thể giải được rubik trong vài chục giây. Khi được hỏi là bạn có biết xoay rubik không? Phần lớn mọi người đều không.
 > Có lẽ một tư duy mặc định là nếu có ai đó làm nhanh hơn, tốt hơn thì mình chả nên thử làm gì!
+
+
+<figure>
+<img src="/assets/img/red-panda-sleeping.jpg" alt="Tư duy nhanh, hành động chậm" style="border: 2px solid  gray;">
+<figcaption>Nguồn: Midlibrary.io
+</figcaption>
+</figure>
 
 ***1\.Thế giới của nhanh, vội, gấp!***
 

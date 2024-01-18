@@ -190,8 +190,21 @@ FED can thiệp trực tiếp vào thị trường bằng chính sách nới l�
 - Lúc này lãi suất fed fund rate đang ở mức 0.25%, FED bắt đầu có kế hoạch tăng lãi suất.
 
 ***Đường cong Phillips hết thời?***
-Phần này được tách riêng ra thành bài viết mới.
+Phần này được tách riêng ra thành [bài viết mới](http://www.longvd.id.vn/2024-01-17-duong-cong-phillips-het-thoi/).
 
 
+***Dịch bệnh***
 
+Tại cuộc họp báo ngày 29 tháng 1, Powell lưu ý rằng tốc độ tăng trưởng kinh tế đang ở năm thứ 11 phá kỷ lục và tỷ lệ thất nghiệp (3,6% trong tháng 12) vẫn ở mức thấp lịch sử. Người tiêu dùng tự tin chi tiêu, sự bất ổn về thương mại dường như đã giảm bớt và tăng trưởng toàn cầu có dấu hiệu ổn định. Những dự đoán gần đây nhất của những người tham gia FOMC về lãi suất quỹ (tại cuộc họp trước đó vào tháng 12) đã cho thấy sự tạm dừng chính sách kéo dài và hàm ý là một sự hạ cánh nhẹ nhàng được mong đợi. Ở mức trung bình, ***những người tham gia dự kiến sẽ không tăng lãi suất vào năm 2020 và chỉ tăng 1/4 điểm vào năm 2021 và 1 điểm vào năm 2022***. Powell cho biết sẽ không có thay đổi lãi suất “miễn là thông tin đến về nền kinh tế nhìn chung vẫn nhất quán” với triển vọng của Ủy ban. Nói cách khác, chính sách tiền tệ vẫn vận hành bình thường.
+
+Rồi dịch bệnh xảy ra, các quốc gia đóng cửa, ảnh hưởng nghiêm trọng tới kinh doanh.
+
+Thị trường tài chính lao dốc, Chứng khoán giảm gần 1/3, Lợi suất trái phiếu chính phủ 10 năm giảm từ 1.13% đến 0.54% vào ngày 09/03/2020. Lợi suất Trái phiếu chính phủ giảm có nghĩa là nhà đầu tư đang lo lắng và bán bớt tài sản rủi ro để mua tài sản an toàn là trái phiếu chính phủ. 
+
+Các ngân hàng TW nước ngoài bán TPCP Mỹ do tình trạng thiếu USD từ đất nước của họ. 
+
+FED lập lại chính sách Người cho vay cuối cùng và Nới lỏng định lượng (QE)
+
+
+***4\.Các công cụ FED sử dụng***
 

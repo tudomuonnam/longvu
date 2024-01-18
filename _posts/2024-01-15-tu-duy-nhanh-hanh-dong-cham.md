@@ -5,7 +5,7 @@ subtitle: Đừng đi quá nhanh
 cover-img: 
 thumbnail-img: /assets/img/spookies.jpeg
 share-img: /assets/img/spookies.jpeg
-tags: [nhanh, chậm, tư duy]
+tags: [tư duy, tâm lý, học, kiến thức, tự tin]
 comments: true
 ---
 

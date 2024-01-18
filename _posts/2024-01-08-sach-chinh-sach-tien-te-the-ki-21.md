@@ -208,3 +208,15 @@ FED lập lại chính sách Người cho vay cuối cùng và Nới lỏng đ�
 
 ***4\.Các công cụ FED sử dụng***
 
+Vì dài và quan trọng nên đẩy sang bài viết mới, [xem tại đây](http://longvd.id.vn/2024-01-16-cong-cu-ngan-hang-tw-su-dung/)
+
+***5\.Tạm kết***
+
+Wao, đọc hết quyển này cũng khá mệt. Đây là vài thứ mình rút ra.
+
+1. Quyển sách này có nên dành cho người mới muốn tìm hiểu về kinh tế? Không. Sách này dành cho người ĐÃ có kiến thức về kinh tế, muốn tìm hiểu xem cách Ngân hàng TW như FED sử dụng các công cụ để điều hành chính sách tiền tệ tại Mỹ
+
+2. Quyển sách này có thể vận dụng tại Việt Nam? Không, chính sách tiền tệ tại Mỹ và VN có rất nhiều điểm khác nhau. Mỹ với lợi thế dẫn đầu của mình có thể và có quyền lực rất lớn trong việc in tiền. VN không làm như vậy được. 
+3. Quyển sách này có giúp ích cho việc đầu tư kinh doanh, chứng khoán? Theo mình vẫn là KHÔNG. Việc hiểu cơ chế hoạt động của FED không giúp ích nhiều cho việc đầu tư. 
+4. Sách này dành cho ai? Người yêu thích tìm hiểu về kinh tế, đã có kiến thức về kinh tế (vi mô, vĩ mô). Đã hiểu được cách vận hành của Ngân hàng TW. Không tin vào thuyết âm mưu kiểu Chiến Tranh tiền tệ. 
+5. Vậy bài học nào được rút ra từ sách này? Có vài thứ cần nhớ: 1) Đừng cố gắng chống lại FED. 2) Hiểu được lịch sử hoạt động gần đây của FED, chủ yếu từ những năm 1980 đến nay. 3) Cách FED định hướng thị trường dựa trên công cụ định hướng hướng dẫn và định hướng mục tiêu. 

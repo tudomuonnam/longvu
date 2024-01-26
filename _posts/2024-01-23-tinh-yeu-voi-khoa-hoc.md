@@ -59,7 +59,9 @@ Tác giả (Edward Frenkel), nhờ tài năng và niềm đam mê tuyệt vời 
 
 Tất nhiên, mình hoàn toàn tin tưởng vào câu chuyện của anh về sự kì thị. Liên Xô và sau đó là Nga đã mất rất nhiều cá nhân kiệt xuất của mình sau khi rơi vào khủng hoảng là một ví dụ trực quan về việc áp dụng những tư duy cứng nhắc của chính trị và khoa học. Và điều đó phần lớn sẽ mang lại kết quả tồi tệ. Đây nên là bài học lớn cho bất kì lãnh đạo nào. 
 
-Và, theo mình, mọi người nên cẩn thận kẻo bị biến thành một con cờ chính trị, với những thỏa thuận ngầm, nếu bạn nói, xuất bản a,b,c bạn sẽ có cơ hội cao hơn để có một suất định cư hay gì đó. Đây là suy nghĩ cá nhân không áp dụng cho tác giả cuốn sách này. Cũng nói luôn là mình là người khá bảo thủ. 
+Đọc đến đây mình lại nhớ đến một tài năng bị trù dập tương tự như tác giả ở VN là nghệ sĩ Piano Đặng Thái Sơn. Ông và gia đình đã chịu rất nhiều sự kì thị vì bố ông tham gia "Nhân Văn Giai Phẩm" và việc học, du học của ông đã bị kì thị rất nặng nề. Tuy gặp nhiều khó khăn đến vậy, nhưng ông vẫn giữ quốc tịch VN và vẫn thường hỗ trợ, biểu diễn ở VN khi có cơ hội.
+
+Theo mình, mọi người nên cẩn thận kẻo bị biến thành một con cờ chính trị, với những thỏa thuận ngầm, nếu bạn nói, xuất bản a,b,c bạn sẽ có cơ hội cao hơn để có một suất định cư hay gì đó. Đây là suy nghĩ cá nhân không áp dụng cho tác giả cuốn sách này. Cũng nói luôn là mình là người khá bảo thủ. 
 
 ***4\.Kết***
 

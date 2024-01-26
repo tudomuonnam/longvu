@@ -47,6 +47,16 @@ Nghiên cứu khoa học luôn khó khăn và cô đơn, có thể tụ họp đ
 
 Ngày nay, internet đã phổ biến và bạn có thể tìm hiểu bất kì vấn đề gì chỉ sau vài truy vấn tìm kiếm. Tuy nhiên những cuộc gặp gỡ để truyền cảm hứng hay chia sẻ như những seminar trên, theo mình vẫn là cách tốt nhất để nhân rộng đam mê và truyền bá kiến thức! Vấn đề là ai sẽ tổ chức hàng tuần và làm sao để những người có chung đam mê tìm thấy họ?
 
+***3\.Thi thoảng chúng ta nên bỏ tù những nhà khoa học hàng đầu***
+
+Mở đầu chương 9, `Hòn đá Rosseta`, tác giả nêu một trường hợp thú vị, Andre Weil, khi đang ở trong tù, đã viết một lá thư cho chị gái mình. Đó không phải lá thư thăm hỏi, mà đúng hơn là một bản sao chép suy nghĩ của ông về  "một bức tranh lớn của toán học", "một sự tương đồng giữa lý thuyết số và hình học". Sự tương đồng này được chứng minh là rất quan trọng cho sự phát triển của thuyết Langlands. Và tác giả nói đùa là, `Thi thoảng chúng ta nên bỏ tù những nhà khoa học hàng đầu để họ có thể diễn đạt thành từ ngữ những ý tưởng của họ, như cách Weil đã làm`
+
+Đây là một ý tưởng thú vị. Lịch sử cũng ghi nhận khá nhiều trường hợp 'phát sáng' khi ở tù, như NAQ với "Nhật Kí Trong Tù" hay Phan Bội Châu với suy nghĩ 'chạy mỏi chân thì hãy ở tù'. Một vài tác giả đã phải tự 'bỏ tù' chính mình để buộc viết ra giấy những sáng tác của mình. 
+
+Ở tù, hay tự khép bản thân mình ở một chỗ, tránh xa ồn ào giúp chúng ta không bị phân tâm, trở về với bản thể bên trong mình. Các ý tưởng trở lại, dễ nắm bắt hơn và bằng việc độc thoại với bản thân mình, các ý tưởng sẽ trở nên rõ ràng hơn và chúng ta có thể bình tâm ghi chép ra được. Suy nghĩ về việc ngày mai chúng ta có thể mất đi mãi mãi cũng là động lực để chúng ta thực hiện những việc trong đầu ngay ngày hôm nay. Blog này cũng là công việc như vậy. Ghi ra các ý tưởng (dù khá vô dụng) để đầu óc được trống rỗng và lo việc khác!
+
+Một cách đơn giản hơn việc vào tù là giảm bớt thời gian bên ngoài, dành 1h mỗi ngày yên tĩnh, đọc sách và lắng nghe suy nghĩ của bản thân. Thiền cũng là một cách tốt.
+
 ***3\.Nhà khoa học và chính trị***
 
 Nhìn chung mà nói, mỗi người có một chuyên môn riêng và một quan điểm riêng. Theo mình, một nhà toán học, ca sĩ, nhạc sĩ, tiến sĩ chỉ nên được quan tâm dựa trên chuyên ngành chính của họ thay vì các suy nghĩ không phải chuyên ngành. Tất nhiên không ai từ chối quyền bày tỏ suy nghĩ của họ. 

@@ -9,7 +9,7 @@ tags: [triết lý, lựa chọn, phật pháp]
 comments: true
 ---
 
-> 26 năm là ngắn hay dài
+> 26 năm là ngắn hay dài? Đúng hay sai có thực sự cần người khác thừa nhận? Quá khứ hay hiện tại hay tương lai quan trọng hơn?
  
 <figure>
 <img src="/assets/img/26-nam-theo-duoi-cong-ly.png" alt="quora-question" style="border: 2px solid  gray;">

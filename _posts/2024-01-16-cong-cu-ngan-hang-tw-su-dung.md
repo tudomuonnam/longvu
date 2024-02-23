@@ -13,11 +13,7 @@ comments: true
 >
 > Nội dung bài viết không mới nhưng được chuẩn bị cẩn thân, đáng để đọc và hiểu thêm. Việc thực thi các chính sách như QE ngoài mục tiêu bình ổn thị trường còn là "định hướng" mạnh gửi đến thị trường về một chính sách dài hạn của FED. Nếu có bên nào dám chống lại, chà, dễ tèo. 
 
-<figure>
-<img src="/assets/img/cat-and-flower.jpg" alt="QE & Định hướng thị trường" style="border: 2px solid  gray;">
-<figcaption>Nguồn: Midlibrary.io
-</figcaption>
-</figure>
+
 
 
 ***1\. Mục tiêu của ngân hàng TW như FED (theo AI Bard)***

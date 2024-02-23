@@ -73,7 +73,7 @@ Tất nhiên, mình hoàn toàn tin tưởng vào câu chuyện của anh về s
 
 ***5\.Khoa học và nghệ thuật***
 
-Nếu bạn đọc quan tâm tới liên hệ giữa khoa học và nghệ thuật, hãy tìm sách `Nghệ Thuật Và Vật Lý - Leonard Shlain` để có cái nhìn sâu rộng hơn về cách các kiến thức khoa học như vật lý tác động đến thị hiếu công chúng và biểu hiện trong nghệ thuật ở từng giai đoạn lịch sử. Cuốn sách này `Love and Math` có giành một chương, nơi tác giả có tham gia viết sách và phim về toán học. Mình chưa xem cả hai, nhưng có lẽ, nhờ một nhà toán học tham gia, các phần hội thoại về toán học gần thực tế hơn trong khi vẫn đảm bảo công chúng có thể hiểu được.
+Nếu bạn đọc quan tâm tới liên hệ giữa khoa học và nghệ thuật, hãy tìm sách `Nghệ Thuật Và Vật Lý - Leonard Shlain` để có cái nhìn sâu rộng hơn về cách các kiến thức khoa học như vật lý tác động đến thị hiếu công chúng và biểu hiện trong nghệ thuật ở từng giai đoạn lịch sử. Cuốn sách này `Love and Math` có giành một chương, nơi tác giả có tham gia viết sách và phim về toán học. Mình chưa xem cả hai, nhưng có lẽ, nhờ một nhà toán học tham gia, các phần hội thoại về toán học gần thực tế hơn trong khi vẫn đảm bảo công chúng có thể hiểu được. Công thức về tình yêu của tác giả làm mình nhớ đến sách `Công thức của vận may` có nhắc đến tiêu chuẩn Kelly,dùng trong đánh bạc (hay đầu tư)
 
 ***4\.Kết***
 

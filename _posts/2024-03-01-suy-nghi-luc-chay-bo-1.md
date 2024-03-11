@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suy nghĩ lúc chạy bộ #1
+title: Suy nghĩ lúc chạy bộ \#1
 subtitle: Có thể chúng ta không mạnh mẽ như ta tưởng
 cover-img: 
 thumbnail-img: /assets/img/cat-fractal.jpg

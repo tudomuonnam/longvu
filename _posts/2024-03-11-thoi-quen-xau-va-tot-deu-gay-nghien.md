@@ -3,16 +3,16 @@ layout: post
 title: Suy nghĩ lúc chạy bộ \#3
 subtitle: Thói quen xấu và thói quen tốt đều gây nghiện khi đã thành "thói quen"
 cover-img: 
-thumbnail-img: /assets/img/image.jpg
-share-img: /assets/image.jpg
-tags: [suy nghĩ,tag2,tag3]
+thumbnail-img: /assets/img/habit.jpeg
+share-img: /assets/habit.jpeg
+tags: [suy nghĩ,thói quen,chạy bộ]
 comments: true
 ---
 
 > Chúng ta vẫn thường nghĩ đến những thói quen xấu như uống rượu, hút thuốc. Việc lặp lại những hành động này ảnh hưởng xấu đến sức khỏe, lối sống. Tuy nhiên những thói quen tốt như chạy bộ, thiền, gym ... nếu lạm dụng quá cũng không có lợi cho sức khỏe
  
 <figure>
-<img src="/assets/img/img-heading" alt="alternative if img not display" style="border: 2px solid  gray;">
+<img src="/assets/img/habit.jpeg" alt="alternative if img not display" style="border: 2px solid  gray;">
 <figcaption>Nguồn: Caption img
 </figcaption>
 </figure>

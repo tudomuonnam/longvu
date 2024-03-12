@@ -3,8 +3,8 @@ layout: post
 title:  Vài kinh nghiệm cá nhân về chạy bộ 
 subtitle: Lưu lại không phải tự khoe 
 cover-img: 
-thumbnail-img: /assets/img/cat-runner.jpg
-share-img: /assets/cat-runner.jpg
+thumbnail-img: /assets/img/cat-runner.jpeg
+share-img: /assets/cat-runner.jpeg
 tags: [chay bo,kinh nghiem]
 comments: true
 ---
@@ -12,7 +12,7 @@ comments: true
 > Nhân tiện nói về chạy bộ, note lại vài thứ về bộ môn này 
  
 <figure>
-<img src="/assets/img/cat-runner.jpg" alt="alternative if img not display" style="border: 2px solid  gray;">
+<img src="/assets/img/cat-runner.jpeg" alt="alternative if img not display" style="border: 2px solid  gray;">
 <figcaption>Nguồn: Bing Image creator
 </figcaption>
 </figure>

@@ -13,7 +13,7 @@ comments: true
  
 <figure>
 <img src="/assets/img/habit.jpeg" alt="alternative if img not display" style="border: 2px solid  gray;">
-<figcaption>Nguồn: Caption img
+<figcaption>Nguồn: Bing image creator
 </figcaption>
 </figure>
 

@@ -1,0 +1,27 @@
+---
+layout: post
+title: Dám nghi ngờ bản thân
+subtitle: Bạn không đáng tin tưởng như bạn nghĩ
+cover-img: 
+thumbnail-img: /assets/img/image.jpg
+share-img: /assets/image.jpg
+tags: [tag1,tag2,tag3]
+comments: true
+---
+
+> Description
+ 
+<figure>
+<img src="/assets/img/img-heading" alt="alternative if img not display" style="border: 2px solid  gray;">
+<figcaption>Nguồn: Caption img
+</figcaption>
+</figure>
+
+**Header1**
+
+**Header2**
+
+***Tham khảo***
+
+1. []()
+2. []()

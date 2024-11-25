@@ -4,12 +4,12 @@ title: Nghe Trọng Tấn hát nhạc Ngô Thụy Miên
 subtitle: Vài vài suy nghĩ liên quan
 cover-img:
 thumbnail-img: /assets/img/trong-tan.png
-share-img: /assets/trong-tan.png
+share-img: /assets/img/trong-tan.png
 tags: [music,quickview]
 comments: true
 ---
 
-> Ngày xưa,
+> Nghe được bản nhạc hay cũng thấy hài lòng như được đọc một cuốn sách bổ ích. Hôm nay là một ngày như vậy. Tự thấy hài lòng để viết về một ca sĩ, một bài hát và hơn thế nữa
 <figure>
 <img src="/assets/img/trong-tan.png" alt="alternative if img not display" style="border: 2px solid  gray;">
 <figcaption>Nguồn: Caption img
